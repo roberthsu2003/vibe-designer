@@ -14,9 +14,13 @@
 - **學習主軸**：Ideogram 發想 + Vectorizer 轉檔 + Affinity 節點修整。
 - **【主題 A：新創 App 圖示】**
     - **風格**：**漸層幾何 (Gradient Geometric)** - 圓角、鮮豔漸層。
-    - **Prompt (英)**：`App icon design, abstract letter "S", gradient colors (purple to orange), rounded corners, glossy finish, modern tech style.`
-    - **Prompt (中)**：`App 圖示設計，抽象字母 "S"，漸層色（紫到橘），圓角，光澤表面，現代科技風格。`
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`App icon. (App 圖示)`
+        2. **Lv2 (中階)**：`App icon design, letter S, gradient colors. (App 圖示設計，字母 S，漸層色)`
+        3. **Lv3 (高階)**：`App icon design, abstract letter "S", gradient colors (purple to orange), rounded corners, glossy finish, modern tech style. (App 圖示設計，抽象字母 "S"，漸層色（紫到橘），圓角，光澤表面，現代科技風格)`
 - **【主題 B：手工烘焙坊商標】**
     - **風格**：**徽章式 (Emblem/Vintage)** - 圓形外框、襯線體。
-    - **Prompt (英)**：`Vintage logo design for a bakery, wheat and rolling pin illustration, circle layout, monochrome, woodcut style.`
-    - **Prompt (中)**：`麵包店復古 Logo 設計，小麥與桿麵棍插畫，圓形排版，單色，木刻版畫風格。`
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Bakery logo. (麵包店 Logo)`
+        2. **Lv2 (中階)**：`Vintage logo for bakery, wheat illustration. (麵包店復古 Logo，小麥插畫)`
+        3. **Lv3 (高階)**：`Vintage logo design for a bakery, wheat and rolling pin illustration, circle layout, monochrome, woodcut style. (麵包店復古 Logo 設計，小麥與桿麵棍插畫，圓形排版，單色，木刻版畫風格)`

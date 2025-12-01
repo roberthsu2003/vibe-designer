@@ -15,5 +15,13 @@
 - **任務**：各組選定一個自創品牌（可延續前面週次的主題），完成全套設計。
 - **【Option A：創立一個 Tech Brand】**
     - 產出：Logo + App Store 預覽圖 + 發表會背板。
+    - **Prompt (Logo) 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Tech brand logo. (科技品牌 Logo)`
+        2. **Lv2 (中階)**：`Tech brand logo, modern style. (科技品牌 Logo，現代風格)`
+        3. **Lv3 (高階)**：`Minimalist tech brand logo, abstract shape, blue gradient, modern typography. (極簡科技品牌 Logo，抽象形狀，藍色漸層，現代字體)`
 - **【Option B：創立一個 Lifestyle Brand】**
     - 產出：Logo + IG 經營排版 (9宮格) + 實體店面招牌模擬。
+    - **Prompt (Logo) 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Lifestyle logo. (生活風格 Logo)`
+        2. **Lv2 (中階)**：`Lifestyle brand logo, natural style. (生活風格品牌 Logo，自然風格)`
+        3. **Lv3 (高階)**：`Organic lifestyle brand logo, leaf icon, earth tones, hand-drawn typography. (有機生活風格品牌 Logo，葉子圖示，大地色調，手繪字體)`

@@ -15,10 +15,14 @@
 - **【主題 A：科技展覽攤位背板】**
     - **重點**：深邃的黑色不能有色塊 (Banding)，文字要極其銳利。
     - **畫面**：AI 虛擬模特兒戴著 VR 眼鏡。
-    - **Prompt (英)**：`Futuristic VR gamer, wearing headset, neon lights reflection, dark background, cyberpunk, 8k resolution.`
-    - **Prompt (中)**：`未來感 VR 玩家，戴著頭戴式裝置，霓虹燈反射，深色背景，賽博龐克，8k 高解析度。`
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`VR gamer. (VR 玩家)`
+        2. **Lv2 (中階)**：`Futuristic VR gamer, neon lights. (未來感 VR 玩家，霓虹燈)`
+        3. **Lv3 (高階)**：`Futuristic VR gamer, wearing headset, neon lights reflection, dark background, cyberpunk, 8k resolution. (未來感 VR 玩家，戴著頭戴式裝置，霓虹燈反射，深色背景，賽博龐克，8k 高解析度)`
 - **【主題 B：文創市集攤位掛布】**
     - **重點**：布料印刷的色彩飽和度控制。
     - **畫面**：溫馨的插畫全家福或寵物插畫。
-    - **Prompt (英)**：`Family portrait illustration, warm colors, happy vibe, cute dog, flat design, soft lighting.`
-    - **Prompt (中)**：`全家福插畫，暖色調，快樂氛圍，可愛的狗，扁平設計，柔和光線。`
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Family illustration. (家庭插畫)`
+        2. **Lv2 (中階)**：`Family portrait illustration, cute dog. (全家福插畫，可愛的狗)`
+        3. **Lv3 (高階)**：`Family portrait illustration, warm colors, happy vibe, cute dog, flat design, soft lighting. (全家福插畫，暖色調，快樂氛圍，可愛的狗，扁平設計，柔和光線)`

@@ -14,9 +14,13 @@
 - **學習主軸**：AI 食物生成 + Affinity 表格與對齊。
 - **【主題 A：美式漢堡/炸雞店】**
     - **風格**：**美式復古 (American Retro)** - 粗體字、高飽和紅黃配色。
-    - **Prompt (英)**：`Delicious fried chicken bucket, exploding crispy crumbs, pop art style background, vibrant red and yellow, close up.`
-    - **Prompt (中)**：`美味炸雞桶，炸裂的酥脆麵衣，波普藝術風格背景，鮮豔紅黃配色，特寫。`
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Fried chicken. (炸雞)`
+        2. **Lv2 (中階)**：`Delicious fried chicken bucket, red and yellow background. (美味炸雞桶，紅黃背景)`
+        3. **Lv3 (高階)**：`Delicious fried chicken bucket, exploding crispy crumbs, pop art style background, vibrant red and yellow, close up. (美味炸雞桶，炸裂的酥脆麵衣，波普藝術風格背景，鮮豔紅黃配色，特寫)`
 - **【主題 B：日式定食/咖啡廳】**
     - **風格**：**日式極簡 (Japanese Zen)** - 留白、直排文字、低飽和度。
-    - **Prompt (英)**：`Japanese set meal, grilled fish, rice and miso soup, wooden tray, soft natural lighting, minimal composition, kinfolk style.`
-    - **Prompt (中)**：`日式定食，烤魚，米飯與味噌湯，木托盤，柔和自然光，極簡構圖，Kinfolk 生活風格。`
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Japanese food. (日式食物)`
+        2. **Lv2 (中階)**：`Japanese set meal, fish and rice, wooden tray. (日式定食，魚和飯，木托盤)`
+        3. **Lv3 (高階)**：`Japanese set meal, grilled fish, rice and miso soup, wooden tray, soft natural lighting, minimal composition, kinfolk style. (日式定食，烤魚，米飯與味噌湯，木托盤，柔和自然光，極簡構圖，Kinfolk 生活風格)`

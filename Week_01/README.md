@@ -14,9 +14,13 @@
 - **學習主軸**：AI 生成抽象背景 + Affinity 文字排版。
 - **【主題 A：AI 科技顧問】**
     - **風格**：**科技極簡 (Tech Minimalist)** - 藍光、線條、幾何。
-    - **Prompt (英)**：`Abstract technology background, circuit board lines, neon blue and white gradient, minimalist style, 8k.`
-    - **Prompt (中)**：`抽象科技背景，電路板線條，霓虹藍白漸層，極簡風格，8k 高解析度。`
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Tech background. (科技背景)`
+        2. **Lv2 (中階)**：`Abstract technology background, blue lines, simple. (抽象科技背景，藍色線條，簡單)`
+        3. **Lv3 (高階)**：`Abstract technology background, circuit board lines, neon blue and white gradient, minimalist style, 8k resolution. (抽象科技背景，電路板線條，霓虹藍白漸層，極簡風格，8k 高解析度)`
 - **【主題 B：花藝/甜點師】**
     - **風格**：**莫蘭迪色調 (Morandi/Soft)** - 水彩、暈染、柔和。
-    - **Prompt (英)**：`Abstract watercolor background, soft pastel colors, floral shapes, artistic texture, elegant vibe, clean space.`
-    - **Prompt (中)**：`抽象水彩背景，柔和粉彩，花卉形狀，藝術紋理，優雅氛圍，乾淨留白。`
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Watercolor background. (水彩背景)`
+        2. **Lv2 (中階)**：`Abstract watercolor background, pastel colors, soft. (抽象水彩背景，粉彩色調，柔和)`
+        3. **Lv3 (高階)**：`Abstract watercolor background, soft pastel colors, floral shapes, artistic texture, elegant vibe, clean space. (抽象水彩背景，柔和粉彩，花卉形狀，藝術紋理，優雅氛圍，乾淨留白)`

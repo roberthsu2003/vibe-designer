@@ -14,9 +14,13 @@
 - **學習主軸**：Recraft 生成一致性 Icon + Napkin.ai 流程圖。
 - **【主題 A：區塊鏈/AI 運作原理】**
     - **風格**：**玻璃擬態 (Glassmorphism)** - 半透明、模糊背景。
-    - **Prompt (英/Recraft)**：`Vector icon set, blockchain, chip, network, lock, glassmorphism style, frosted glass effect, blue gradient.`
-    - **Prompt (中)**：`向量圖標組，區塊鏈，晶片，網絡，鎖，玻璃擬態風格，磨砂玻璃效果，藍色漸層。`
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Icons. (圖標)`
+        2. **Lv2 (中階)**：`Vector icon set, blockchain, glass style. (向量圖標組，區塊鏈，玻璃風格)`
+        3. **Lv3 (高階)**：`Vector icon set, blockchain, chip, network, lock, glassmorphism style, frosted glass effect, blue gradient. (向量圖標組，區塊鏈，晶片，網絡，鎖，玻璃擬態風格，磨砂玻璃效果，藍色漸層)`
 - **【主題 B：手沖咖啡/瑜珈步驟】**
     - **風格**：**線條手繪 (Line Art)** - 鉛筆觸感、單色。
-    - **Prompt (英/Recraft)**：`Vector icon set, coffee bean, kettle, cup, dripper, continuous line art, black outline on white, minimal.`
-    - **Prompt (中)**：`向量圖標組，咖啡豆，手沖壺，杯子，濾杯，一筆畫線條藝術（連續線），白底黑線，極簡。`
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Coffee icons. (咖啡圖標)`
+        2. **Lv2 (中階)**：`Vector icon set, coffee bean, cup, line art. (向量圖標組，咖啡豆，杯子，線條藝術)`
+        3. **Lv3 (高階)**：`Vector icon set, coffee bean, kettle, cup, dripper, continuous line art, black outline on white, minimal. (向量圖標組，咖啡豆，手沖壺，杯子，濾杯，一筆畫線條藝術（連續線），白底黑線，極簡)`

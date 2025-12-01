@@ -29,3 +29,8 @@
 - **雙軌評分標準**：
     - **選 A 組**：評分重點在於「現代感」、「資訊清晰度」、「創新性」。
     - **選 B 組**：評分重點在於「溫度感」、「故事性」、「視覺舒適度」。
+- **【發表會封面生成】**
+    - **Prompt 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Presentation background. (簡報背景)`
+        2. **Lv2 (中階)**：`Tech presentation background, dark. (科技簡報背景，深色)`
+        3. **Lv3 (高階)**：`Futuristic presentation background, dark blue, neon lines, "DEMO DAY" text, 3d render. (未來感簡報背景，深藍色，霓虹線條，"DEMO DAY"文字，3D 渲染)`

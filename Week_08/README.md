@@ -15,10 +15,14 @@
 - **【主題 A：智慧家電型錄】**
     - **風格**：**瑞士國際主義 (Swiss Style)** - 網格系統、Helvetica 字體、客觀冷靜。
     - **內容**：介紹掃地機器人、智慧音箱功能。
-    - **Prompt (英/底紋)**：`Abstract geometric pattern, swiss style, minimal, grey and white.`
-    - **Prompt (中)**：`抽象幾何圖樣，瑞士風格，極簡，灰白配色。`
+    - **Prompt (底紋) 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Geometric pattern. (幾何圖樣)`
+        2. **Lv2 (中階)**：`Abstract geometric pattern, grey and white. (抽象幾何圖樣，灰與白)`
+        3. **Lv3 (高階)**：`Abstract geometric pattern, swiss style, minimal, grey and white, grid system. (抽象幾何圖樣，瑞士風格，極簡，灰白配色，網格系統)`
 - **【主題 B：豪華露營區簡介】**
     - **風格**：**雜誌排版 (Magazine Style)** - 滿版大圖、優雅字體、留白。
     - **內容**：介紹營區設施、BBQ 菜單、星空導覽。
-    - **Prompt (英/底紋)**：`Paper texture, beige, subtle grain, minimal background.`
-    - **Prompt (中)**：`紙張紋理，米色，細微顆粒，極簡背景。`
+    - **Prompt (底紋) 進階三部曲 (由淺入深)**：
+        1. **Lv1 (基礎)**：`Paper texture. (紙張紋理)`
+        2. **Lv2 (中階)**：`Paper texture, beige color. (紙張紋理，米色)`
+        3. **Lv3 (高階)**：`Paper texture, beige, subtle grain, minimal background, high quality. (紙張紋理，米色，細微顆粒，極簡背景，高品質)`
