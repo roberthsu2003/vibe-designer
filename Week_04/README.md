@@ -18,6 +18,8 @@
         1. **Lv1 (基礎)**：`Fried chicken. (炸雞)`
         2. **Lv2 (中階)**：`Delicious fried chicken bucket, red and yellow background. (美味炸雞桶，紅黃背景)`
         3. **Lv3 (高階)**：`Delicious fried chicken bucket, exploding crispy crumbs, pop art style background, vibrant red and yellow, close up. (美味炸雞桶，炸裂的酥脆麵衣，波普藝術風格背景，鮮豔紅黃配色，特寫)`
+    - **範例作品**：
+      ![Theme A Example](assets/theme_a.png)
 - **【主題 B：日式定食/咖啡廳】**
     - **風格**：**日式極簡 (Japanese Zen)** - 留白、直排文字、低飽和度。
     - **Prompt 進階三部曲 (由淺入深)**：

@@ -19,6 +19,8 @@
         1. **Lv1 (基礎)**：`Cyberpunk poster. (賽博龐克海報)`
         2. **Lv2 (中階)**：`Poster design, "CYBER WEEK" text, neon colors. (海報設計，"CYBER WEEK"文字，霓虹色彩)`
         3. **Lv3 (高階)**：`Poster design, "CYBER WEEK" text in glitch font, neon green and purple, cyberpunk city background, high contrast. (海報設計，"CYBER WEEK"文字採用故障藝術字體，霓虹綠與紫，賽博龐克城市背景，高對比度)`
+    - **範例作品**：
+      ![Theme A Example](assets/theme_a.png)
 - **【主題 B：小農市集/季節水果祭】**
     - **風格**：**拼貼手帳風 (Scrapbook/Collage)** - 暖色調、紙質感。
     - **規格**：主標題「Summer Market」、米白底色。
@@ -26,3 +28,5 @@
         1. **Lv1 (基礎)**：`Market poster. (市集海報)`
         2. **Lv2 (中階)**：`Poster design, "Summer Market", fruits, paper texture. (海報設計，"Summer Market"，水果，紙張紋理)`
         3. **Lv3 (高階)**：`Poster design, "Summer Market" text in hand-drawn font, fresh fruits, paper texture background, cute stickers style. (海報設計，"Summer Market"文字採用手繪字體，新鮮水果，紙張紋理背景，可愛貼紙風格)`
+    - **範例作品**：
+      ![Theme B Example](assets/theme_b.png)

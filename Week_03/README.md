@@ -17,9 +17,13 @@
         1. **Lv1 (基礎)**：`Product background. (產品背景)`
         2. **Lv2 (中階)**：`Product photography background, white podium, blue light. (產品攝影背景，白色展台，藍光)`
         3. **Lv3 (高階)**：`Product photography background, a futuristic white podium floating in the air, blue laser lights, clean studio lighting, high tech vibe. (產品攝影背景，懸浮在空中的未來感白色展台，藍色雷射光，乾淨的攝影棚燈光，高科技氛圍)`
+    - **範例作品**：
+      ![Theme A Example](assets/theme_a.png)
 - **【主題 B：精油/保養品】**
     - **場景**：**自然岩石與水 (Nature & Water)** - 陽光、水波紋、石頭。
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`Stone background. (石頭背景)`
         2. **Lv2 (中階)**：`Product photography background, stone platform, water. (產品攝影背景，石台，水)`
         3. **Lv3 (高階)**：`Product photography background, a natural stone platform in shallow water, ripples, sunlight dappled, zen garden vibe, organic. (產品攝影背景，淺水中的天然石台，漣漪，陽光灑落（斑駁光影），枯山水庭園氛圍，有機感)`
+    - **範例作品**：
+      ![Theme B Example](assets/theme_b.png)
