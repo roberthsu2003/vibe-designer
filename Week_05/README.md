@@ -21,9 +21,23 @@
         - **內文**：探索人工智慧的無限可能。頂尖專家齊聚，解構未來趨勢。
         - **資訊**：2025.12.10 | Taipei International Convention Center
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`抽象幾何形狀，極簡，留白 (Abstract geometric shapes, minimalist, copy space)`
-        2. **Lv2 (中階)**：`抽象幾何海報背景，藍與橘，瑞士風格，標題空間 (Abstract geometric poster background, blue and orange, swiss style, clean space for title)`
-        3. **Lv3 (高階)**：`[主體] 抽象幾何圖形（圓形、方形、線條） + [環境] 純色背景 + [構圖] 網格系統 (Grid system) 排版，圖形位於對角線，左上與右下留白供大標題與資訊使用 + [風格] 瑞士國際主義風格 (Swiss Style)，大膽排版，藍橘對比色 + [參數] 向量風格，極簡主義，乾淨俐落 (Subject: Abstract geometric shapes (circles, squares, lines), Environment: Solid color background, Layout: Grid system layout, shapes on diagonal, negative space in top-left and bottom-right for large title and info, Style: Swiss International Style, bold typography, blue and orange contrast, Parameters: Vector style, minimalism, clean and sharp)`
+        1. **Lv1 (基礎)**：
+            ```prompt
+            抽象幾何形狀，極簡，留白 (Abstract geometric shapes, minimalist, copy space)
+            ```
+        2. **Lv2 (中階)**：
+            ```prompt
+            抽象幾何海報背景，藍與橘，瑞士風格，標題空間 (Abstract geometric poster background, blue and orange, swiss style, clean space for title)
+            ```
+        3. **Lv3 (高階)**：
+            ```prompt
+            [主體] 抽象幾何圖形（圓形、方形、線條）
+            [環境] 純色背景
+            [構圖] 網格系統 (Grid system) 排版，圖形位於對角線，左上與右下留白供大標題與資訊使用
+            [風格] 瑞士國際主義風格 (Swiss Style)，大膽排版，藍橘對比色
+            [參數] 向量風格，極簡主義，乾淨俐落
+            (Subject: Abstract geometric shapes (circles, squares, lines), Environment: Solid color background, Layout: Grid system layout, shapes on diagonal, negative space in top-left and bottom-right for large title and info, Style: Swiss International Style, bold typography, blue and orange contrast, Parameters: Vector style, minimalism, clean and sharp)
+            ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：藝術展/花卉市集】**
@@ -35,8 +49,22 @@
         - **內文**：沉浸在花卉與藝術交織的夢幻世界。感受自然的律動，體驗生命的美好。
         - **資訊**：2025.04.01 - 04.30 | Huashan 1914 Creative Park
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`花卉圖案背景，柔和，留白 (Floral pattern background, soft, copy space)`
-        2. **Lv2 (中階)**：`新藝術風格背景，花朵與藤蔓，優雅，中央空間 (Art Nouveau style background, flowers and vines, elegant, central space)`
-        3. **Lv3 (高階)**：`[主體] 精細的有機曲線與花卉藤蔓 + [環境] 柔和的紙張紋理背景 + [構圖] 邊框式構圖 (Frame composition)，裝飾性邊框環繞，中央大面積橢圓形留白供活動詳情 + [風格] 新藝術風格 (Art Nouveau)，慕夏風格，柔和金色與鼠尾草綠 + [參數] 裝飾性強，優雅，插畫質感 (Subject: Intricate organic curves and floral vines, Environment: Soft paper texture background, Layout: Frame composition, decorative border surrounding, large central oval negative space for event details, Style: Art Nouveau, Alphonse Mucha style, muted gold and sage green, Parameters: Highly decorative, elegant, illustration texture)`
+        1. **Lv1 (基礎)**：
+            ```prompt
+            花卉圖案背景，柔和，留白 (Floral pattern background, soft, copy space)
+            ```
+        2. **Lv2 (中階)**：
+            ```prompt
+            新藝術風格背景，花朵與藤蔓，優雅，中央空間 (Art Nouveau style background, flowers and vines, elegant, central space)
+            ```
+        3. **Lv3 (高階)**：
+            ```prompt
+            [主體] 精細的有機曲線與花卉藤蔓
+            [環境] 柔和的紙張紋理背景
+            [構圖] 邊框式構圖 (Frame composition)，裝飾性邊框環繞，中央大面積橢圓形留白供活動詳情
+            [風格] 新藝術風格 (Art Nouveau)，慕夏風格，柔和金色與鼠尾草綠
+            [參數] 裝飾性強，優雅，插畫質感
+            (Subject: Intricate organic curves and floral vines, Environment: Soft paper texture background, Layout: Frame composition, decorative border surrounding, large central oval negative space for event details, Style: Art Nouveau, Alphonse Mucha style, muted gold and sage green, Parameters: Highly decorative, elegant, illustration texture)
+            ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

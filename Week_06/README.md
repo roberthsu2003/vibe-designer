@@ -22,9 +22,23 @@
         - **步驟三**：上傳至交易平台 (Minting)
         - **步驟四**：設定價格與版稅 (Listing)
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`電腦圖標，等距視角，白底 (Computer icon, isometric, white background)`
-        2. **Lv2 (中階)**：`區塊鏈科技圖標，等距視角風格，3D 渲染，藍與白，獨立 (Blockchain technology icon, isometric style, 3d render, blue and white, isolated)`
-        3. **Lv3 (高階)**：`[主體] 未來伺服器機房與連接節點 + [環境] 純白背景，無陰影 + [構圖] 等距視角 (Isometric view)，元素獨立分明，適合拆解為資訊圖表步驟，周圍留白 + [風格] 3D 渲染，Blender 風格，科技藍與白，柔和燈光 + [參數] 高解析度，去背友善 (Subject: Futuristic server room and connecting nodes, Environment: Pure white background, no shadows, Layout: Isometric view, elements isolated and distinct, suitable for infographic steps, negative space around, Style: 3D render, Blender style, tech blue and white, soft lighting, Parameters: High resolution, cutout friendly)`
+        1. **Lv1 (基礎)**：
+            ```prompt
+            電腦圖標，等距視角，白底 (Computer icon, isometric, white background)
+            ```
+        2. **Lv2 (中階)**：
+            ```prompt
+            區塊鏈科技圖標，等距視角風格，3D 渲染，藍與白，獨立 (Blockchain technology icon, isometric style, 3d render, blue and white, isolated)
+            ```
+        3. **Lv3 (高階)**：
+            ```prompt
+            [主體] 未來伺服器機房與連接節點
+            [環境] 純白背景，無陰影
+            [構圖] 等距視角 (Isometric view)，元素獨立分明，適合拆解為資訊圖表步驟，周圍留白
+            [風格] 3D 渲染，Blender 風格，科技藍與白，柔和燈光
+            [參數] 高解析度，去背友善
+            (Subject: Futuristic server room and connecting nodes, Environment: Pure white background, no shadows, Layout: Isometric view, elements isolated and distinct, suitable for infographic steps, negative space around, Style: 3D render, Blender style, tech blue and white, soft lighting, Parameters: High resolution, cutout friendly)
+            ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：手沖咖啡/植栽教學】**
@@ -37,8 +51,22 @@
         - **步驟三**：悶蒸 (Bloom) - 釋放香氣
         - **步驟四**：注水 (Pour) - 穩定水流
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`咖啡杯圖標，素描，白底 (Coffee cup icon, drawing, white background)`
-        2. **Lv2 (中階)**：`咖啡沖煮器具圖標，手繪風格，黑墨，白底，簡單 (Coffee brewing equipment icons, hand drawn style, black ink, white background, simple)`
-        3. **Lv3 (高階)**：`[主體] 園藝工具組（澆水壺、龜背芋葉、鏟子） + [環境] 純白背景 + [構圖] 陣列式排列 (Knolling)，每個物件之間保持等距，互不重疊，方便獨立選取 + [風格] 一筆畫 (Continuous line drawing)，極簡黑線，塗鴉風格 + [參數] 向量感，高對比，清晰線條 (Subject: Gardening tool set (watering can, monstera leaf, shovel), Environment: Pure white background, Layout: Knolling arrangement, equal distance between objects, no overlap, easy to select individually, Style: Continuous line drawing, minimal black lines, doodle style, Parameters: Vector feel, high contrast, clean lines)`
+        1. **Lv1 (基礎)**：
+            ```prompt
+            咖啡杯圖標，素描，白底 (Coffee cup icon, drawing, white background)
+            ```
+        2. **Lv2 (中階)**：
+            ```prompt
+            咖啡沖煮器具圖標，手繪風格，黑墨，白底，簡單 (Coffee brewing equipment icons, hand drawn style, black ink, white background, simple)
+            ```
+        3. **Lv3 (高階)**：
+            ```prompt
+            [主體] 園藝工具組（澆水壺、龜背芋葉、鏟子）
+            [環境] 純白背景
+            [構圖] 陣列式排列 (Knolling)，每個物件之間保持等距，互不重疊，方便獨立選取
+            [風格] 一筆畫 (Continuous line drawing)，極簡黑線，塗鴉風格
+            [參數] 向量感，高對比，清晰線條
+            (Subject: Gardening tool set (watering can, monstera leaf, shovel), Environment: Pure white background, Layout: Knolling arrangement, equal distance between objects, no overlap, easy to select individually, Style: Continuous line drawing, minimal black lines, doodle style, Parameters: Vector feel, high contrast, clean lines)
+            ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

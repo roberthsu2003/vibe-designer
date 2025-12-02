@@ -24,7 +24,16 @@
         - **功能亮點**：AI 智慧摘要、語音轉文字、心智圖自動生成。
         - **Call to Action**：Download Now on App Store.
     - **Prompt 建議 (全方位結構)**：
-        - `[主體] 現代化 App 介面展示機 (Mockup) + [環境] 抽象科技數據流背景，深色調 + [構圖] 左右分割構圖，手機位於左側，右側大面積留白供功能說明文字 + [風格] UI/UX 設計風格，極簡，專業 + [參數] 高解析度，無反光 (Subject: Modern App interface mockup, Environment: Abstract tech data flow background, dark tones, Layout: Split composition, phone on left, large negative space on right for feature description, Style: UI/UX design style, minimalist, professional, Parameters: High resolution, no glare)`
+    - **Prompt 建議 (全方位結構)**：
+        - 
+            ```prompt
+            [主體] 現代化 App 介面展示機 (Mockup)
+            [環境] 抽象科技數據流背景，深色調
+            [構圖] 左右分割構圖，手機位於左側，右側大面積留白供功能說明文字
+            [風格] UI/UX 設計風格，極簡，專業
+            [參數] 高解析度，無反光
+            (Subject: Modern App interface mockup, Environment: Abstract tech data flow background, dark tones, Layout: Split composition, phone on left, large negative space on right for feature description, Style: UI/UX design style, minimalist, professional, Parameters: High resolution, no glare)
+            ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：在地文創品牌/特色小店開幕】**
@@ -39,6 +48,15 @@
         - **活動**：Grand Opening Party
         - **優惠**：開幕期間全品項 8 折，打卡送多肉植物。
     - **Prompt 建議 (全方位結構)**：
-        - `[主體] 質感文創店面外觀與招牌 + [環境] 街道一角，溫暖午後陽光，綠植點綴 + [構圖] 正面平視 (Front view)，店門位於中央，上方招牌區域留白供 Logo 合成 + [風格] 有機生活風格，文青，日系雜誌感 + [參數] 真實攝影質感，自然光 (Subject: Textured creative shopfront and signage, Environment: Street corner, warm afternoon sunlight, plant accents, Layout: Front view, shop door in center, negative space above for Logo compositing, Style: Organic lifestyle, hipster, Japanese magazine vibe, Parameters: Realistic photography texture, natural light)`
+    - **Prompt 建議 (全方位結構)**：
+        - 
+            ```prompt
+            [主體] 質感文創店面外觀與招牌
+            [環境] 街道一角，溫暖午後陽光，綠植點綴
+            [構圖] 正面平視 (Front view)，店門位於中央，上方招牌區域留白供 Logo 合成
+            [風格] 有機生活風格，文青，日系雜誌感
+            [參數] 真實攝影質感，自然光
+            (Subject: Textured creative shopfront and signage, Environment: Street corner, warm afternoon sunlight, plant accents, Layout: Front view, shop door in center, negative space above for Logo compositing, Style: Organic lifestyle, hipster, Japanese magazine vibe, Parameters: Realistic photography texture, natural light)
+            ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)
