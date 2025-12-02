@@ -20,7 +20,7 @@
         2. **解方 (Solution)**：你的產品如何解決？(展示 Logo, App 介面)
         3. **願景 (Vision)**：未來發展藍圖。
     - **Prompt 建議**：
-        - 關鍵字：`Pitch deck background`, `Professional`, `Data visualization space`, `Clean white background`, `Minimalist`.
+        - 關鍵字：`簡報背景`, `專業`, `數據視覺化空間`, `乾淨白底`, `極簡` (`Pitch deck background`, `Professional`, `Data visualization space`, `Clean white background`, `Minimalist`)。
     - **參考文案內容 (Reference Copy)**：
         - **Slide 1 (封面)**：Project: Aether - Next Gen AI Assistant
         - **Slide 2 (問題)**：Information Overload is Real. (資訊過載是真實的)
@@ -36,7 +36,7 @@
         2. **工藝 (Craft)**：堅持與細節。(展示包裝, 製作過程)
         3. **生活 (Lifestyle)**：品牌帶給人們的美好想像。
     - **Prompt 建議**：
-        - 關鍵字：`Brand book layout`, `Storytelling`, `Cinematic photography`, `Soft lighting`, `Space for narrative text`.
+        - 關鍵字：`品牌書排版`, `說故事`, `電影感攝影`, `柔和光線`, `敘事文字空間` (`Brand book layout`, `Storytelling`, `Cinematic photography`, `Soft lighting`, `Space for narrative text`)。
     - **參考文案內容 (Reference Copy)**：
         - **Slide 1 (封面)**：Slow Living - A Brand Book
         - **Slide 2 (起源)**：Born from the Earth. (源於大地)

@@ -19,9 +19,9 @@
         - **副標題**：AI 賦能，重塑您的商業競爭力
         - **內文**：我們提供最前沿的人工智慧解決方案，助您在數位轉型浪潮中搶佔先機。
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Tech background, minimalist, copy space. (科技背景，極簡，留白)`
-        2. **Lv2 (中階)**：`Abstract technology background, blue lines, simple, clean layout for text. (抽象科技背景，藍色線條，簡單，適合文字的乾淨版面)`
-        3. **Lv3 (高階)**：`Abstract technology background, circuit board lines, neon blue and white gradient, minimalist style, 8k resolution, negative space on the right for title and body text, clean composition. (抽象科技背景，電路板線條，霓虹藍白漸層，極簡風格，8k 高解析度，右側留白供標題與內文排版，乾淨構圖)`
+        1. **Lv1 (基礎)**：`科技背景，極簡，留白 (Tech background, minimalist, copy space)`
+        2. **Lv2 (中階)**：`抽象科技背景，藍色線條，簡單，適合文字的乾淨版面 (Abstract technology background, blue lines, simple, clean layout for text)`
+        3. **Lv3 (高階)**：`抽象科技背景，電路板線條，霓虹藍白漸層，極簡風格，8k 高解析度，右側留白供標題與內文排版，乾淨構圖 (Abstract technology background, circuit board lines, neon blue and white gradient, minimalist style, 8k resolution, negative space on the right for title and body text, clean composition)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：花藝/甜點師】**
@@ -31,8 +31,8 @@
         - **副標題**：手作溫度，傳遞最真摯的心意
         - **內文**：精選當季花材與天然食材，為您打造獨一無二的視覺與味覺饗宴。
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Watercolor background, soft, copy space. (水彩背景，柔和，留白)`
-        2. **Lv2 (中階)**：`Abstract watercolor background, pastel colors, soft, clean center. (抽象水彩背景，粉彩色調，柔和，中間乾淨)`
-        3. **Lv3 (高階)**：`Abstract watercolor background, soft pastel colors, floral shapes, artistic texture, elegant vibe, clean space in the center for text, negative space for logo. (抽象水彩背景，柔和粉彩，花卉形狀，藝術紋理，優雅氛圍，中間乾淨留白供文字使用，適合放置 Logo)`
+        1. **Lv1 (基礎)**：`水彩背景，柔和，留白 (Watercolor background, soft, copy space)`
+        2. **Lv2 (中階)**：`抽象水彩背景，粉彩色調，柔和，中間乾淨 (Abstract watercolor background, pastel colors, soft, clean center)`
+        3. **Lv3 (高階)**：`抽象水彩背景，柔和粉彩，花卉形狀，藝術紋理，優雅氛圍，中間乾淨留白供文字使用，適合放置 Logo (Abstract watercolor background, soft pastel colors, floral shapes, artistic texture, elegant vibe, clean space in the center for text, negative space for logo)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

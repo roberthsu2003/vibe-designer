@@ -20,9 +20,9 @@
         - **副標題**：全面 3 折起，限時 72 小時
         - **內文**：年度最強檔，錯過再等一年！頂級電競配備、3C 周邊，現在入手最划算。
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Cyberpunk poster background, copy space. (賽博龐克海報背景，留白)`
-        2. **Lv2 (中階)**：`Poster design background, neon colors, dark background for text. (海報設計背景，霓虹色彩，暗色背景適合文字)`
-        3. **Lv3 (高階)**：`Poster design background, neon green and purple, cyberpunk city vibe, high contrast, glitch effect, negative space at the bottom for event details. (海報設計背景，霓虹綠與紫，賽博龐克城市氛圍，高對比度，故障效果，底部留白供活動詳情)`
+        1. **Lv1 (基礎)**：`賽博龐克海報背景，留白 (Cyberpunk poster background, copy space)`
+        2. **Lv2 (中階)**：`海報設計背景，霓虹色彩，暗色背景適合文字 (Poster design background, neon colors, dark background for text)`
+        3. **Lv3 (高階)**：`海報設計背景，霓虹綠與紫，賽博龐克城市氛圍，高對比度，故障效果，底部留白供活動詳情 (Poster design background, neon green and purple, cyberpunk city vibe, high contrast, glitch effect, negative space at the bottom for event details)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：小農市集/季節水果祭】**
@@ -33,8 +33,8 @@
         - **副標題**：在地小農，新鮮直送
         - **內文**：這個週末，來感受土地的溫度。當季水果、手作果醬、有機蔬菜，與您分享夏日的甜蜜。
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Market poster background, copy space. (市集海報背景，留白)`
-        2. **Lv2 (中階)**：`Poster design background, fruits, paper texture, space for title. (海報設計背景，水果，紙張紋理，標題空間)`
-        3. **Lv3 (高階)**：`Poster design background, fresh fruits border, paper texture, cute stickers style, clean layout in center for event info. (海報設計背景，新鮮水果邊框，紙張紋理，可愛貼紙風格，中央乾淨版面供活動資訊)`
+        1. **Lv1 (基礎)**：`市集海報背景，留白 (Market poster background, copy space)`
+        2. **Lv2 (中階)**：`海報設計背景，水果，紙張紋理，標題空間 (Poster design background, fruits, paper texture, space for title)`
+        3. **Lv3 (高階)**：`海報設計背景，新鮮水果邊框，紙張紋理，可愛貼紙風格，中央乾淨版面供活動資訊 (Poster design background, fresh fruits border, paper texture, cute stickers style, clean layout in center for event info)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

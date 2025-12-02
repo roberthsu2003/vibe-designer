@@ -25,7 +25,7 @@
         - **Call to Action**：Download Now on App Store.
     - **Prompt 建議**：
         - 延續 Week 1-10 的 "Tech Minimalist" 或 "Cyberpunk" 風格。
-        - 關鍵字：`UI/UX design`, `App interface`, `Modern tech branding`, `Clean layout`, `Copy space`.
+        - 關鍵字：`UI/UX 設計`, `App 介面`, `現代科技品牌`, `乾淨版面`, `留白` (`UI/UX design`, `App interface`, `Modern tech branding`, `Clean layout`, `Copy space`)。
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：在地文創品牌/特色小店開幕】**
@@ -41,6 +41,6 @@
         - **優惠**：開幕期間全品項 8 折，打卡送多肉植物。
     - **Prompt 建議**：
         - 延續 Week 1-10 的 "Slow Life" 或 "Artisan" 風格。
-        - 關鍵字：`Storefront design`, `Branding identity`, `Organic lifestyle`, `Warm atmosphere`, `Space for signage`.
+        - 關鍵字：`店面設計`, `品牌識別`, `有機生活`, `溫暖氛圍`, `招牌空間` (`Storefront design`, `Branding identity`, `Organic lifestyle`, `Warm atmosphere`, `Space for signage`)。
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

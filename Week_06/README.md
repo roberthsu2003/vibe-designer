@@ -22,9 +22,9 @@
         - **步驟三**：上傳至交易平台 (Minting)
         - **步驟四**：設定價格與版稅 (Listing)
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Computer icon, isometric, white background. (電腦圖標，等距視角，白底)`
-        2. **Lv2 (中階)**：`Blockchain technology icon, isometric style, 3d render, blue and white, isolated. (區塊鏈科技圖標，等距視角風格，3D 渲染，藍與白，獨立)`
-        3. **Lv3 (高階)**：`Isometric illustration of a futuristic server room, connecting nodes, data flow, soft lighting, 3d render, blender style, white background, isolated elements for infographic steps. (未來伺服器機房等距視角插圖，連接節點，數據流，柔和燈光，3D 渲染，Blender 風格，白底，獨立元素適合資訊圖表步驟)`
+        1. **Lv1 (基礎)**：`電腦圖標，等距視角，白底 (Computer icon, isometric, white background)`
+        2. **Lv2 (中階)**：`區塊鏈科技圖標，等距視角風格，3D 渲染，藍與白，獨立 (Blockchain technology icon, isometric style, 3d render, blue and white, isolated)`
+        3. **Lv3 (高階)**：`未來伺服器機房等距視角插圖，連接節點，數據流，柔和燈光，3D 渲染，Blender 風格，白底，獨立元素適合資訊圖表步驟 (Isometric illustration of a futuristic server room, connecting nodes, data flow, soft lighting, 3d render, blender style, white background, isolated elements for infographic steps)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：手沖咖啡/植栽教學】**
@@ -37,8 +37,8 @@
         - **步驟三**：悶蒸 (Bloom) - 釋放香氣
         - **步驟四**：注水 (Pour) - 穩定水流
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Coffee cup icon, drawing, white background. (咖啡杯圖標，素描，白底)`
-        2. **Lv2 (中階)**：`Coffee brewing equipment icons, hand drawn style, black ink, white background, simple. (咖啡沖煮器具圖標，手繪風格，黑墨，白底，簡單)`
-        3. **Lv3 (高階)**：`Set of gardening icons, watering can, monstera leaf, shovel, continuous line drawing, minimal, black on white, doodle style, isolated on white for easy selection and layout. (園藝圖標組，澆水壺，龜背芋葉，鏟子，一筆畫，極簡，白底黑線，塗鴉風格，白底獨立適合去背與排版)`
+        1. **Lv1 (基礎)**：`咖啡杯圖標，素描，白底 (Coffee cup icon, drawing, white background)`
+        2. **Lv2 (中階)**：`咖啡沖煮器具圖標，手繪風格，黑墨，白底，簡單 (Coffee brewing equipment icons, hand drawn style, black ink, white background, simple)`
+        3. **Lv3 (高階)**：`園藝圖標組，澆水壺，龜背芋葉，鏟子，一筆畫，極簡，白底黑線，塗鴉風格，白底獨立適合去背與排版 (Set of gardening icons, watering can, monstera leaf, shovel, continuous line drawing, minimal, black on white, doodle style, isolated on white for easy selection and layout)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

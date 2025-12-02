@@ -21,9 +21,9 @@
         - **日期地點**：Oct 15-18 | World Trade Center
         - **Slogan**：Where Technology Meets Humanity
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Futuristic city skyline, wide shot, copy space in sky. (未來城市天際線，廣角，天空留白)`
-        2. **Lv2 (中階)**：`Futuristic city skyline at night, neon lights, wide angle, space for large text. (夜晚的未來城市天際線，霓虹燈，廣角，大字空間)`
-        3. **Lv3 (高階)**：`Panoramic view of a futuristic metropolis, flying cars, holograms, cyberpunk atmosphere, highly detailed, 8k resolution, cinematic lighting, wide shot, negative space in the sky for large title and event dates. (未來大都會全景，飛行車，全像圖，賽博龐克氛圍，高度細節，8k 高解析度，電影級燈光，廣角鏡頭，天空留白供大標題與活動日期使用)`
+        1. **Lv1 (基礎)**：`未來城市天際線，廣角，天空留白 (Futuristic city skyline, wide shot, copy space in sky)`
+        2. **Lv2 (中階)**：`夜晚的未來城市天際線，霓虹燈，廣角，大字空間 (Futuristic city skyline at night, neon lights, wide angle, space for large text)`
+        3. **Lv3 (高階)**：`未來大都會全景，飛行車，全像圖，賽博龐克氛圍，高度細節，8k 高解析度，電影級燈光，廣角鏡頭，天空留白供大標題與活動日期使用 (Panoramic view of a futuristic metropolis, flying cars, holograms, cyberpunk atmosphere, highly detailed, 8k resolution, cinematic lighting, wide shot, negative space in the sky for large title and event dates)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：音樂節/市集打卡牆】**
@@ -35,8 +35,8 @@
         - **日期地點**：July 20-22 | Sunset Valley
         - **Hashtag**：#Wanderlust2025
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Music festival background, sunset, copy space. (音樂節背景，日落，留白)`
-        2. **Lv2 (中階)**：`Bohemian style background, feathers and dreamcatchers, sunset, warm tones, space for photo. (波西米亞風格背景，羽毛與捕夢網，日落，暖色調，拍照空間)`
-        3. **Lv3 (高階)**：`Outdoor music festival stage background, bohemian decorations, fairy lights, sunset glow, crowd silhouettes in distance, warm atmosphere, wide angle, central copy space for photo backdrop and hashtags. (戶外音樂節舞台背景，波西米亞裝飾，仙女燈，日落餘暉，遠處人群剪影，溫暖氛圍，廣角，中央留白供拍照背板與標籤使用)`
+        1. **Lv1 (基礎)**：`音樂節背景，日落，留白 (Music festival background, sunset, copy space)`
+        2. **Lv2 (中階)**：`波西米亞風格背景，羽毛與捕夢網，日落，暖色調，拍照空間 (Bohemian style background, feathers and dreamcatchers, sunset, warm tones, space for photo)`
+        3. **Lv3 (高階)**：`戶外音樂節舞台背景，波西米亞裝飾，仙女燈，日落餘暉，遠處人群剪影，溫暖氛圍，廣角，中央留白供拍照背板與標籤使用 (Outdoor music festival stage background, bohemian decorations, fairy lights, sunset glow, crowd silhouettes in distance, warm atmosphere, wide angle, central copy space for photo backdrop and hashtags)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

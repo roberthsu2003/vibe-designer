@@ -23,9 +23,9 @@
             - **晶片薯條** $80：酥脆口感，運算速度加倍
             - **能量飲料** $120：瞬間回血，再戰一局
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Neon burger, dark background, copy space. (霓虹漢堡，暗色背景，留白)`
-        2. **Lv2 (中階)**：`Cyberpunk style burger, glowing sauce, dark background, space for menu. (賽博龐克風格漢堡，發光醬汁，暗色背景，菜單空間)`
-        3. **Lv3 (高階)**：`Delicious burger in cyberpunk style, holographic garnish, neon lighting, digital glitch effect, cinematic lighting, food photography, dark background on side for menu text. (賽博龐克風格美味漢堡，全像裝飾，霓虹燈光，數位故障效果，電影級燈光，食物攝影，側邊暗色背景適合菜單文字)`
+        1. **Lv1 (基礎)**：`霓虹漢堡，暗色背景，留白 (Neon burger, dark background, copy space)`
+        2. **Lv2 (中階)**：`賽博龐克風格漢堡，發光醬汁，暗色背景，菜單空間 (Cyberpunk style burger, glowing sauce, dark background, space for menu)`
+        3. **Lv3 (高階)**：`賽博龐克風格美味漢堡，全像裝飾，霓虹燈光，數位故障效果，電影級燈光，食物攝影，側邊暗色背景適合菜單文字 (Delicious burger in cyberpunk style, holographic garnish, neon lighting, digital glitch effect, cinematic lighting, food photography, dark background on side for menu text)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：有機早午餐/慢食餐廳】**
@@ -39,8 +39,8 @@
             - **手沖咖啡** $150：衣索比亞耶加雪菲，花果香氣
             - **希臘優格** $180：搭配季節水果與蜂蜜
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Avocado toast, white background, copy space. (酪梨吐司，白底，留白)`
-        2. **Lv2 (中階)**：`Avocado toast on white plate, top view, clean background for text. (白盤上的酪梨吐司，俯視，適合文字的乾淨背景)`
-        3. **Lv3 (高階)**：`Gourmet avocado toast with poached egg, rustic wooden table, linen napkin, soft natural lighting, food magazine style, top down view, plenty of white space for menu items. (搭配水波蛋的頂級酪梨吐司，鄉村風木桌，亞麻餐巾，柔和自然光，美食雜誌風格，俯視，大量留白供菜單項目使用)`
+        1. **Lv1 (基礎)**：`酪梨吐司，白底，留白 (Avocado toast, white background, copy space)`
+        2. **Lv2 (中階)**：`白盤上的酪梨吐司，俯視，適合文字的乾淨背景 (Avocado toast on white plate, top view, clean background for text)`
+        3. **Lv3 (高階)**：`搭配水波蛋的頂級酪梨吐司，鄉村風木桌，亞麻餐巾，柔和自然光，美食雜誌風格，俯視，大量留白供菜單項目使用 (Gourmet avocado toast with poached egg, rustic wooden table, linen napkin, soft natural lighting, food magazine style, top down view, plenty of white space for menu items)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

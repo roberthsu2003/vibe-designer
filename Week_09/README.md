@@ -21,9 +21,9 @@
         - **成分標示**：Taurine, B-Vitamins, Caffeine.
         - **容量**：330ml / 11.15 fl oz
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Carbon fiber texture, dark, copy space. (碳纖維紋理，深色，留白)`
-        2. **Lv2 (中階)**：`Seamless carbon fiber texture, black and grey, metallic finish, clean surface. (無縫碳纖維紋理，黑與灰，金屬表面，乾淨表面)`
-        3. **Lv3 (高階)**：`Futuristic hexagon pattern texture, seamless, glowing neon edges, dark metallic background, tech armor style, 8k resolution, clean area for logo placement and product info. (未來六角形圖案紋理，無縫，發光霓虹邊緣，深色金屬背景，科技裝甲風格，8k 高解析度，乾淨區域供 Logo 放置與產品資訊)`
+        1. **Lv1 (基礎)**：`碳纖維紋理，深色，留白 (Carbon fiber texture, dark, copy space)`
+        2. **Lv2 (中階)**：`無縫碳纖維紋理，黑與灰，金屬表面，乾淨表面 (Seamless carbon fiber texture, black and grey, metallic finish, clean surface)`
+        3. **Lv3 (高階)**：`未來六角形圖案紋理，無縫，發光霓虹邊緣，深色金屬背景，科技裝甲風格，8k 高解析度，乾淨區域供 Logo 放置與產品資訊 (Futuristic hexagon pattern texture, seamless, glowing neon edges, dark metallic background, tech armor style, 8k resolution, clean area for logo placement and product info)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：茶葉禮盒/手工果醬】**
@@ -35,8 +35,8 @@
         - **成分標示**：Organic Strawberries, Cane Sugar, Lemon Juice.
         - **重量**：200g / 7oz
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Japanese paper texture, light color, copy space. (日本紙紋理，淺色，留白)`
-        2. **Lv2 (中階)**：`Seamless japanese traditional pattern, cherry blossoms, pink and white, soft texture. (無縫日本傳統圖案，櫻花，粉紅與白，柔和紋理)`
-        3. **Lv3 (高階)**：`Elegant floral wrapping paper pattern, seamless, vintage botanical illustration, soft pastel colors, watercolor style, high quality print, light texture for packaging, clean space for label. (優雅花卉包裝紙圖案，無縫，復古植物插畫，柔和粉彩，水彩風格，高品質印刷，輕微紋理適合包裝，乾淨空間供標籤使用)`
+        1. **Lv1 (基礎)**：`日本紙紋理，淺色，留白 (Japanese paper texture, light color, copy space)`
+        2. **Lv2 (中階)**：`無縫日本傳統圖案，櫻花，粉紅與白，柔和紋理 (Seamless japanese traditional pattern, cherry blossoms, pink and white, soft texture)`
+        3. **Lv3 (高階)**：`優雅花卉包裝紙圖案，無縫，復古植物插畫，柔和粉彩，水彩風格，高品質印刷，輕微紋理適合包裝，乾淨空間供標籤使用 (Elegant floral wrapping paper pattern, seamless, vintage botanical illustration, soft pastel colors, watercolor style, high quality print, light texture for packaging, clean space for label)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

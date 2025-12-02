@@ -20,9 +20,9 @@
         - **Slogan**：Connecting the Future
         - **品牌理念**：連結無限可能，創造智慧生活。
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Logo for tech company, letter N, white background. (科技公司 Logo，字母 N，白底)`
-        2. **Lv2 (中階)**：`Minimalist logo design, letter N, geometric shapes, blue gradient, white background, vector style. (極簡 Logo 設計，字母 N，幾何形狀，藍色漸層，白底，向量風格)`
-        3. **Lv3 (高階)**：`Modern tech startup logo, abstract letter N formed by connecting nodes, gradient blue to purple, vector style, flat design, white background, dribbble style, simple and scalable for branding. (現代科技新創 Logo，由連接節點組成的抽象字母 N，藍到紫漸層，向量風格，扁平設計，白底，Dribbble 風格，簡約且可縮放適合品牌識別)`
+        1. **Lv1 (基礎)**：`科技公司 Logo，字母 N，白底 (Logo for tech company, letter N, white background)`
+        2. **Lv2 (中階)**：`極簡 Logo 設計，字母 N，幾何形狀，藍色漸層，白底，向量風格 (Minimalist logo design, letter N, geometric shapes, blue gradient, white background, vector style)`
+        3. **Lv3 (高階)**：`現代科技新創 Logo，由連接節點組成的抽象字母 N，藍到紫漸層，向量風格，扁平設計，白底，Dribbble 風格，簡約且可縮放適合品牌識別 (Modern tech startup logo, abstract letter N formed by connecting nodes, gradient blue to purple, vector style, flat design, white background, dribbble style, simple and scalable for branding)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：手作職人/烘焙坊】**
@@ -33,8 +33,8 @@
         - **Slogan**：Baking with Love
         - **品牌理念**：每日新鮮手作，傳遞溫暖與幸福的味道。
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Bakery logo, wheat, white background. (烘焙坊 Logo，小麥，白底)`
-        2. **Lv2 (中階)**：`Vintage bakery logo, wheat illustration, circle badge, brown color, white background. (復古烘焙坊 Logo，小麥插圖，圓形徽章，褐色，白底)`
-        3. **Lv3 (高階)**：`Artisan bakery logo design, hand drawn wheat sheaf, elegant serif typography, circular badge style, vintage texture, warm earth tones, white background, clean lines for vector tracing and logo use. (職人烘焙坊 Logo 設計，手繪麥穗，優雅襯線字體，圓形徽章風格，復古紋理，溫暖大地色調，白底，線條乾淨適合向量描繪與 Logo 使用)`
+        1. **Lv1 (基礎)**：`烘焙坊 Logo，小麥，白底 (Bakery logo, wheat, white background)`
+        2. **Lv2 (中階)**：`復古烘焙坊 Logo，小麥插圖，圓形徽章，褐色，白底 (Vintage bakery logo, wheat illustration, circle badge, brown color, white background)`
+        3. **Lv3 (高階)**：`職人烘焙坊 Logo 設計，手繪麥穗，優雅襯線字體，圓形徽章風格，復古紋理，溫暖大地色調，白底，線條乾淨適合向量描繪與 Logo 使用 (Artisan bakery logo design, hand drawn wheat sheaf, elegant serif typography, circular badge style, vintage texture, warm earth tones, white background, clean lines for vector tracing and logo use)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)
