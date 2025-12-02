@@ -26,9 +26,10 @@
             [主體] 抽象數據圖表與幾何圖形
             [環境] 純淨白底，微妙的陰影層次
             [構圖] 模組化構圖 (Modular layout)，預留明確的標題區與內文區，視覺動線清晰
+            [文字配置] 標題「PROJECT: AETHER」置於標題區，專業粗體無襯線 (Bold Professional Sans)，深藍色，副標題「Next Gen AI Assistant」置於下方，灰色
             [風格] 專業簡報風格，極簡，企業藍
             [參數] 向量感，扁平化設計，高易讀性
-            (Subject: Abstract data charts and geometric shapes, Environment: Pure white background, subtle shadow layers, Layout: Modular layout, reserved clear title and body areas, clear visual flow, Style: Professional pitch deck style, minimalist, corporate blue, Parameters: Vector feel, flat design, high readability)
+            (Subject: Abstract data charts and geometric shapes, Environment: Pure white background, subtle shadow layers, Layout: Modular layout, reserved clear title and body areas, clear visual flow, Text Layout: Title 'PROJECT: AETHER' placed in title area, bold professional sans, dark blue, subtitle 'Next Gen AI Assistant' below, grey, Style: Professional pitch deck style, minimalist, corporate blue, Parameters: Vector feel, flat design, high readability)
             ```
     - **參考文案內容 (Reference Copy)**：
         - **Slide 1 (封面)**：Project: Aether - Next Gen AI Assistant
@@ -51,9 +52,10 @@
             [主體] 手作過程特寫或品牌情境照
             [環境] 柔和室內光線，富有情感的氛圍
             [構圖] 跨頁雜誌排版 (Magazine spread)，圖片佔據一頁，另一頁留白供品牌故事敘述
+            [文字配置] 標題「SLOW LIVING」置於留白頁上方，優雅襯線體 (Elegant Serif)，黑色，內文「Born from the Earth」置於下方，易讀襯線體
             [風格] 敘事性攝影 (Storytelling)，電影感，溫暖
             [參數] 淺景深，顆粒感
-            (Subject: Close-up of handmade process or brand scenario, Environment: Soft indoor lighting, emotional atmosphere, Layout: Magazine spread, image occupies one page, other page negative space for brand story, Style: Storytelling photography, cinematic, warm, Parameters: Shallow depth of field, grain)
+            (Subject: Close-up of handmade process or brand scenario, Environment: Soft indoor lighting, emotional atmosphere, Layout: Magazine spread, image occupies one page, other page negative space for brand story, Text Layout: Title 'SLOW LIVING' placed on top of negative space page, elegant serif font, black, body text 'Born from the Earth' below, readable serif, Style: Storytelling photography, cinematic, warm, Parameters: Shallow depth of field, grain)
             ```
     - **參考文案內容 (Reference Copy)**：
         - **Slide 1 (封面)**：Slow Living - A Brand Book

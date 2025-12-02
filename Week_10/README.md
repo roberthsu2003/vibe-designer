@@ -34,9 +34,10 @@
             [主體] 未來大都會全景，飛行車穿梭，巨型全像投影
             [環境] 賽博龐克夜景，電影級燈光氛圍
             [構圖] 超廣角鏡頭 (Wide shot)，地平線位於下方 1/3，上方 2/3 天空大面積留白供大標題與活動日期排版
+            [文字配置] 標題「TECH EXPO 2025」置於天空留白處，巨大且具未來感的無襯線體 (Futuristic Sans-serif)，發光藍色，日期地點置於下方，清晰白色
             [風格] 科幻電影感，高度細節，震撼視覺
             [參數] 8k 解析度，銳利畫質
-            (Subject: Panoramic view of futuristic metropolis, flying cars, giant holograms, Environment: Cyberpunk night scene, cinematic lighting atmosphere, Layout: Ultra wide shot, horizon at bottom 1/3, top 2/3 sky large negative space for large title and event dates, Style: Sci-fi movie feel, high detail, stunning visual, Parameters: 8k resolution, sharp image)
+            (Subject: Panoramic view of futuristic metropolis, flying cars, giant holograms, Environment: Cyberpunk night scene, cinematic lighting atmosphere, Layout: Ultra wide shot, horizon at bottom 1/3, top 2/3 sky large negative space for large title and event dates, Text Layout: Title 'TECH EXPO 2025' placed in sky negative space, huge futuristic sans-serif, glowing blue, date and location below, clear white, Style: Sci-fi movie feel, high detail, stunning visual, Parameters: 8k resolution, sharp image)
             ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
@@ -62,9 +63,10 @@
             [主體] 戶外音樂節舞台與波西米亞風裝飾（羽毛、捕夢網）
             [環境] 日落餘暉，仙女燈閃爍，遠處人群剪影
             [構圖] 對稱或中央構圖，中央預留大面積人像拍攝空間 (Photo backdrop)，四周裝飾
+            [文字配置] 標題「SUMMER VIBES」置於背景上方，復古霓虹燈管字體 (Vintage Neon Script)，暖橘色，Hashtag「#Wanderlust2025」置於下方，手寫風格
             [風格] 溫暖氛圍，夢幻，Coachella 風格
             [參數] 廣角，柔和光線
-            (Subject: Outdoor music festival stage and bohemian decorations (feathers, dreamcatchers), Environment: Sunset glow, fairy lights twinkling, crowd silhouettes in distance, Layout: Symmetrical or central composition, large central space reserved for portrait photo backdrop, decorations around edges, Style: Warm atmosphere, dreamy, Coachella style, Parameters: Wide angle, soft lighting)
+            (Subject: Outdoor music festival stage and bohemian decorations (feathers, dreamcatchers), Environment: Sunset glow, fairy lights twinkling, crowd silhouettes in distance, Layout: Symmetrical or central composition, large central space reserved for portrait photo backdrop, decorations around edges, Text Layout: Title 'SUMMER VIBES' placed at top of background, vintage neon script, warm orange, Hashtag '#Wanderlust2025' below, handwritten style, Style: Warm atmosphere, dreamy, Coachella style, Parameters: Wide angle, soft lighting)
             ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

@@ -36,9 +36,10 @@
             [主體] 美味漢堡搭配全像投影裝飾與發光醬汁
             [環境] 昏暗的賽博龐克餐廳，霓虹燈光照明
             [構圖] 側面視角，漢堡位於左側，右側暗色背景留白供菜單文字排版
+            [文字配置] 標題「CYBER BURGER」置於右側上方，霓虹燈管字體 (Neon Tube Font)，粉紅色發光，菜單項目「量子牛肉堡」等置於下方，白色像素字體 (Pixel Font)
             [風格] 電影級燈光，數位故障效果，誘人美食攝影
             [參數] 8k 解析度，微距攝影，高對比
-            (Subject: Delicious burger with holographic garnish and glowing sauce, Environment: Dim cyberpunk restaurant with neon lighting, Layout: Side view, burger on left, dark negative space on right for menu text, Style: Cinematic lighting, digital glitch effect, appetizing food photography, Parameters: 8k resolution, macro photography, high contrast)
+            (Subject: Delicious burger with holographic garnish and glowing sauce, Environment: Dim cyberpunk restaurant with neon lighting, Layout: Side view, burger on left, dark negative space on right for menu text, Text Layout: Title 'CYBER BURGER' placed in top right, neon tube font, pink glowing, menu items '量子牛肉堡' etc. below, white pixel font, Style: Cinematic lighting, digital glitch effect, appetizing food photography, Parameters: 8k resolution, macro photography, high contrast)
             ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
@@ -66,9 +67,10 @@
             [主體] 頂級酪梨吐司搭配水波蛋
             [環境] 鄉村風木桌，亞麻餐巾，柔和自然光
             [構圖] 俯視平拍 (Flat lay)，餐盤位於下方，上方與兩側大量留白供菜單項目排列
+            [文字配置] 標題「MORNING VIBE」置於上方中央，手寫書法字體 (Calligraphy Font)，黑色，菜單項目「酪梨吐司」等置於兩側，簡約無襯線體
             [風格] 美食雜誌風，清新，有機生活感
             [參數] 高畫質，柔和光影，色彩鮮豔
-            (Subject: Gourmet avocado toast with poached egg, Environment: Rustic wooden table, linen napkin, soft natural lighting, Layout: Flat lay, plate at bottom, large negative space above and sides for menu items, Style: Food magazine style, fresh, organic lifestyle vibe, Parameters: High quality, soft lighting, vibrant colors)
+            (Subject: Gourmet avocado toast with poached egg, Environment: Rustic wooden table, linen napkin, soft natural lighting, Layout: Flat lay, plate at bottom, large negative space above and sides for menu items, Text Layout: Title 'MORNING VIBE' placed in top center, calligraphy font, black, menu items '酪梨吐司' etc. on sides, simple sans-serif, Style: Food magazine style, fresh, organic lifestyle vibe, Parameters: High quality, soft lighting, vibrant colors)
             ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

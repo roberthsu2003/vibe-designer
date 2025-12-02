@@ -33,9 +33,10 @@
             [主體] 幾何形狀的產品展示台
             [環境] 未來城市夜景散景，霓虹藍粉燈光反射於潮濕地面
             [構圖] 居中構圖，展示台位於下方中央，上方大面積留白供標題與文案
+            [文字配置] 標題「X-PHONE PRO」置於上方中央，金屬質感無襯線字體 (Metallic Sans-serif)，銀色反光，副標題「全新上市」置於標題下方，極簡白色
             [風格] 高科技氛圍，時尚，冷冽
             [參數] 8k 解析度，光線追蹤渲染，景深效果
-            (Subject: Geometric product display podium, Environment: Futuristic city night bokeh, neon blue and pink lights reflecting on wet ground, Layout: Centered composition, podium at bottom center, large negative space above for headline and copy, Style: High-tech vibe, fashion, cool tones, Parameters: 8k resolution, ray tracing render, depth of field)
+            (Subject: Geometric product display podium, Environment: Futuristic city night bokeh, neon blue and pink lights reflecting on wet ground, Layout: Centered composition, podium at bottom center, large negative space above for headline and copy, Text Layout: Title 'X-PHONE PRO' placed in top center, metallic sans-serif font, silver reflection, subtitle '全新上市' below title, minimalist white, Style: High-tech vibe, fashion, cool tones, Parameters: 8k resolution, ray tracing render, depth of field)
             ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
@@ -60,9 +61,10 @@
             [主體] 質樸的木製桌面
             [環境] 柔和晨光透過窗簾灑落，映照出植物葉片的陰影
             [構圖] 俯視平拍 (Flat lay)，右側放置裝飾性植物，左側寬敞留白供產品與文字擺放
+            [文字配置] 標題「PURE LIFE」置於左側留白處，細緻的襯線字體 (Thin Serif)，深綠色，副標題「手工植萃系列」置於下方，字體小而優雅
             [風格] 自然清新，SPA 氛圍，溫暖
             [參數] 自然光，柔焦，高質感攝影
-            (Subject: Rustic wooden tabletop, Environment: Soft morning sunlight through curtains casting plant leaf shadows, Layout: Flat lay, decorative plants on right, wide negative space on left for product and text, Style: Natural fresh, SPA atmosphere, warm, Parameters: Natural lighting, soft focus, high quality photography)
+            (Subject: Rustic wooden tabletop, Environment: Soft morning sunlight through curtains casting plant leaf shadows, Layout: Flat lay, decorative plants on right, wide negative space on left for product and text, Text Layout: Title 'PURE LIFE' placed in left negative space, thin serif font, dark green, subtitle '手工植萃系列' below, small and elegant font, Style: Natural fresh, SPA atmosphere, warm, Parameters: Natural lighting, soft focus, high quality photography)
             ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

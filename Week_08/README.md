@@ -37,9 +37,10 @@
             [主體] 抽象的網絡連接線條與數據節點
             [環境] 乾淨明亮的科技空間，柔和藍光
             [構圖] 跨頁構圖 (Spread layout)，視覺引導線從左延伸至右，大面積留白供多段文字排版
+            [文字配置] 標題「CLOUD SOLUTIONS」置於左頁上方，專業無襯線體 (Professional Sans-serif)，深藍色，內文段落置於右頁留白處，清晰易讀
             [風格] 企業專業形象，高科技，極簡藍白主題
             [參數] 高解析度，柔焦背景，適合印刷
-            (Subject: Abstract network connection lines and data nodes, Environment: Clean bright tech space, soft blue light, Layout: Spread layout, visual leading lines extending from left to right, large negative space for multi-paragraph text, Style: Corporate professional image, high-tech, minimalist blue and white theme, Parameters: High resolution, soft focus background, suitable for print)
+            (Subject: Abstract network connection lines and data nodes, Environment: Clean bright tech space, soft blue light, Layout: Spread layout, visual leading lines extending from left to right, large negative space for multi-paragraph text, Text Layout: Title 'CLOUD SOLUTIONS' placed on top of left page, professional sans-serif, dark blue, body paragraphs in right page negative space, clear and readable, Style: Corporate professional image, high-tech, minimalist blue and white theme, Parameters: High resolution, soft focus background, suitable for print)
             ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
@@ -65,9 +66,10 @@
             [主體] 山中茶園的壯麗景色
             [環境] 清晨陽光穿透薄霧，空氣感十足
             [構圖] 廣角全景 (Wide angle panoramic)，前景清晰，背景模糊 (Bokeh) 適合文字疊加，天空與山嵐留白
+            [文字配置] 標題「KYOTO TRAVEL」置於天空留白處，優雅襯線體 (Elegant Serif)，白色，引言「Travel is the only thing...」置於下方，斜體
             [風格] 旅遊雜誌風格，電影級攝影，自然療癒
             [參數] 8k 解析度，高動態範圍 (HDR)
-            (Subject: Magnificent view of mountain tea plantation, Environment: Morning sunlight piercing through mist, atmospheric, Layout: Wide angle panoramic, sharp foreground, bokeh background suitable for text overlay, negative space in sky and mountain mist, Style: Travel magazine style, cinematic photography, natural healing, Parameters: 8k resolution, High Dynamic Range)
+            (Subject: Magnificent view of mountain tea plantation, Environment: Morning sunlight piercing through mist, atmospheric, Layout: Wide angle panoramic, sharp foreground, bokeh background suitable for text overlay, negative space in sky and mountain mist, Text Layout: Title 'KYOTO TRAVEL' placed in sky negative space, elegant serif font, white, quote 'Travel is the only thing...' below, italic, Style: Travel magazine style, cinematic photography, natural healing, Parameters: 8k resolution, High Dynamic Range)
             ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

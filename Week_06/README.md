@@ -35,9 +35,10 @@
             [主體] 未來伺服器機房與連接節點
             [環境] 純白背景，無陰影
             [構圖] 等距視角 (Isometric view)，元素獨立分明，適合拆解為資訊圖表步驟，周圍留白
+            [文字配置] 標題「NFT MINTING」置於上方，現代科技字體 (Modern Tech Font)，深藍色，步驟文字「創建錢包」等置於各圖標旁，清晰易讀
             [風格] 3D 渲染，Blender 風格，科技藍與白，柔和燈光
             [參數] 高解析度，去背友善
-            (Subject: Futuristic server room and connecting nodes, Environment: Pure white background, no shadows, Layout: Isometric view, elements isolated and distinct, suitable for infographic steps, negative space around, Style: 3D render, Blender style, tech blue and white, soft lighting, Parameters: High resolution, cutout friendly)
+            (Subject: Futuristic server room and connecting nodes, Environment: Pure white background, no shadows, Layout: Isometric view, elements isolated and distinct, suitable for infographic steps, negative space around, Text Layout: Title 'NFT MINTING' placed at top, modern tech font, dark blue, step text '創建錢包' etc. next to icons, clear and readable, Style: 3D render, Blender style, tech blue and white, soft lighting, Parameters: High resolution, cutout friendly)
             ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
@@ -64,9 +65,10 @@
             [主體] 園藝工具組（澆水壺、龜背芋葉、鏟子）
             [環境] 純白背景
             [構圖] 陣列式排列 (Knolling)，每個物件之間保持等距，互不重疊，方便獨立選取
+            [文字配置] 標題「POUR OVER」置於中央上方，手寫筆刷字體 (Brush Script)，黑色，步驟文字「研磨」等置於對應工具旁，簡約字體
             [風格] 一筆畫 (Continuous line drawing)，極簡黑線，塗鴉風格
             [參數] 向量感，高對比，清晰線條
-            (Subject: Gardening tool set (watering can, monstera leaf, shovel), Environment: Pure white background, Layout: Knolling arrangement, equal distance between objects, no overlap, easy to select individually, Style: Continuous line drawing, minimal black lines, doodle style, Parameters: Vector feel, high contrast, clean lines)
+            (Subject: Gardening tool set (watering can, monstera leaf, shovel), Environment: Pure white background, Layout: Knolling arrangement, equal distance between objects, no overlap, easy to select individually, Text Layout: Title 'POUR OVER' placed in top center, brush script font, black, step text '研磨' etc. next to tools, simple font, Style: Continuous line drawing, minimal black lines, doodle style, Parameters: Vector feel, high contrast, clean lines)
             ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

@@ -34,9 +34,10 @@
             [主體] 抽象幾何圖形（圓形、方形、線條）
             [環境] 純色背景
             [構圖] 網格系統 (Grid system) 排版，圖形位於對角線，左上與右下留白供大標題與資訊使用
+            [文字配置] 標題「AI REVOLUTION 2025」置於左上角，Helvetica 粗體 (Bold Helvetica)，黑色，副標題「未來即現在」置於右下角，字體較小
             [風格] 瑞士國際主義風格 (Swiss Style)，大膽排版，藍橘對比色
             [參數] 向量風格，極簡主義，乾淨俐落
-            (Subject: Abstract geometric shapes (circles, squares, lines), Environment: Solid color background, Layout: Grid system layout, shapes on diagonal, negative space in top-left and bottom-right for large title and info, Style: Swiss International Style, bold typography, blue and orange contrast, Parameters: Vector style, minimalism, clean and sharp)
+            (Subject: Abstract geometric shapes (circles, squares, lines), Environment: Solid color background, Layout: Grid system layout, shapes on diagonal, negative space in top-left and bottom-right for large title and info, Text Layout: Title 'AI REVOLUTION 2025' placed in top-left, Bold Helvetica, black, subtitle '未來即現在' in bottom-right, smaller font, Style: Swiss International Style, bold typography, blue and orange contrast, Parameters: Vector style, minimalism, clean and sharp)
             ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
@@ -62,9 +63,10 @@
             [主體] 精細的有機曲線與花卉藤蔓
             [環境] 柔和的紙張紋理背景
             [構圖] 邊框式構圖 (Frame composition)，裝飾性邊框環繞，中央大面積橢圓形留白供活動詳情
+            [文字配置] 標題「FLORAL ART」置於上方中央，新藝術風格字體 (Art Nouveau Font)，金色，副標題「夢幻花展」置於標題下方，優雅曲線
             [風格] 新藝術風格 (Art Nouveau)，慕夏風格，柔和金色與鼠尾草綠
             [參數] 裝飾性強，優雅，插畫質感
-            (Subject: Intricate organic curves and floral vines, Environment: Soft paper texture background, Layout: Frame composition, decorative border surrounding, large central oval negative space for event details, Style: Art Nouveau, Alphonse Mucha style, muted gold and sage green, Parameters: Highly decorative, elegant, illustration texture)
+            (Subject: Intricate organic curves and floral vines, Environment: Soft paper texture background, Layout: Frame composition, decorative border surrounding, large central oval negative space for event details, Text Layout: Title 'FLORAL ART' placed in top center, Art Nouveau font, gold, subtitle '夢幻花展' below title, elegant curves, Style: Art Nouveau, Alphonse Mucha style, muted gold and sage green, Parameters: Highly decorative, elegant, illustration texture)
             ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

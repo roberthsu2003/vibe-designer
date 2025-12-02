@@ -34,9 +34,10 @@
             [主體] 未來感六角形蜂巢圖案
             [環境] 深色金屬背景，邊緣帶有發光霓虹線條
             [構圖] 無縫紋理 (Seamless texture)，均勻分佈，中央設有乾淨區域供 Logo 放置與產品資訊排版
+            [文字配置] 產品名稱「ENERGY X」置於中央乾淨區域，粗體斜體無襯線字體 (Bold Italic Sans-serif)，金屬銀色，成分標示置於下方，小字體
             [風格] 科技裝甲風格，運動感，陽剛
             [參數] 8k 高解析度，材質細節清晰
-            (Subject: Futuristic hexagonal honeycomb pattern, Environment: Dark metallic background, glowing neon lines on edges, Layout: Seamless texture, evenly distributed, clean area in center for Logo placement and product info, Style: Tech armor style, sporty, masculine, Parameters: 8k resolution, clear material details)
+            (Subject: Futuristic hexagonal honeycomb pattern, Environment: Dark metallic background, glowing neon lines on edges, Layout: Seamless texture, evenly distributed, clean area in center for Logo placement and product info, Text Layout: Product name 'ENERGY X' placed in central clean area, bold italic sans-serif, metallic silver, ingredients below, small font, Style: Tech armor style, sporty, masculine, Parameters: 8k resolution, clear material details)
             ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
@@ -62,9 +63,10 @@
             [主體] 復古植物插畫與花卉圖案
             [環境] 柔和粉彩色的紙張質感
             [構圖] 無縫連續圖案 (Seamless pattern)，花卉疏密有致，預留乾淨空間供產品標籤 (Label) 貼合
+            [文字配置] 產品名稱「SWEET JAM」置於標籤區域，手寫書法字體 (Calligraphy)，深紅色，口味標示「Organic Strawberries」置於下方，簡約字體
             [風格] 優雅水彩風，高品質印刷質感，日式清新
             [參數] 輕微紋理，適合包裝設計
-            (Subject: Vintage botanical illustration and floral patterns, Environment: Soft pastel paper texture, Layout: Seamless pattern, balanced density of flowers, reserved clean space for product label, Style: Elegant watercolor, high quality print texture, Japanese fresh style, Parameters: Light texture, suitable for packaging design)
+            (Subject: Vintage botanical illustration and floral patterns, Environment: Soft pastel paper texture, Layout: Seamless pattern, balanced density of flowers, reserved clean space for product label, Text Layout: Product name 'SWEET JAM' placed in label area, calligraphy font, dark red, flavor 'Organic Strawberries' below, simple font, Style: Elegant watercolor, high quality print texture, Japanese fresh style, Parameters: Light texture, suitable for packaging design)
             ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

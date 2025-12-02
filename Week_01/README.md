@@ -32,9 +32,10 @@
             [主體] 抽象電路板線條與幾何圖形
             [環境] 深色數位空間，微光流動
             [構圖] 三分法構圖，視覺重心在左，右側大面積留白供標題使用
+            [文字配置] 標題「AI REVOLUTION 2025」置於右側留白處，字體巨大，現代無襯線粗體 (Bold Sans-serif)，白色發光效果，副標題「AI 賦能」置於下方，字體較小
             [風格] 科技極簡風，霓虹藍白漸層
             [參數] 8k 高解析度，乾淨構圖
-            (Subject: Abstract circuit board lines and geometric shapes, Environment: Dark digital space with subtle flowing light, Layout: Rule of thirds, visual weight on left, large negative space on right for title, Style: Tech minimalist, neon blue and white gradient, Parameters: 8k resolution, clean composition)
+            (Subject: Abstract circuit board lines and geometric shapes, Environment: Dark digital space with subtle flowing light, Layout: Rule of thirds, visual weight on left, large negative space on right for title, Text Layout: Title 'AI REVOLUTION 2025' placed in right negative space, huge font, modern bold sans-serif, white glowing effect, subtitle 'AI 賦能' below, smaller font, Style: Tech minimalist, neon blue and white gradient, Parameters: 8k resolution, clean composition)
             ```
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
@@ -58,9 +59,10 @@
             [主體] 柔和的抽象花卉形狀
             [環境] 白色水彩紙紋理背景
             [構圖] 邊框式構圖，花卉環繞四周，中央留白供文字排版
+            [文字配置] 標題「FLORAL & SWEET」置於中央，優雅襯線體 (Elegant Serif)，粉金色，副標題「手作溫度」置於下方，手寫風格字體
             [風格] 優雅水彩風，粉彩色調
             [參數] 藝術質感，高解析度
-            (Subject: Soft abstract floral shapes, Environment: White watercolor paper texture background, Layout: Border composition, flowers surrounding edges, clean center space for text layout, Style: Elegant watercolor, pastel colors, Parameters: Artistic texture, high resolution)
+            (Subject: Soft abstract floral shapes, Environment: White watercolor paper texture background, Layout: Border composition, flowers surrounding edges, clean center space for text layout, Text Layout: Title 'FLORAL & SWEET' placed in center, elegant serif font, rose gold, subtitle '手作溫度' below, handwritten style font, Style: Elegant watercolor, pastel colors, Parameters: Artistic texture, high resolution)
             ```
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)
