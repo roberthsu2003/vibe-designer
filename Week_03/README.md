@@ -1,29 +1,40 @@
 # 第 3 堂：商品情境 - 虛擬攝影棚 (Affinity 主場)
 
-- **主題**：網拍與電商商品圖製作
-- **工具**：Microsoft Designer (生成背景) + Affinity Photo (專業合成)
+- **主題**：商品去背與情境合成
+- **工具**：Affinity Photo/Designer + AI 背景生成
 - **重點方向**：
-    - **為何需要 Affinity？**：商品去背必須達到「髮絲級」精細度，且需透過曲線 (Curves) 調整光影，才能讓商品與 AI 背景完美融合，這是 Canva 免費版難以做到的。
-    - **背景生成術**：用自然語言描述場景光線（如：「午後陽光灑落在淺色木紋桌面上」）。
-- **實作產出**：一張媲美 4A 廣告等級的商品情境合成圖。
+    - **光影一致性**：學習如何調整素材的亮度、對比與色溫，使其與 AI 背景完美融合。
+    - **透視與比例**：理解視平線 (Horizon Line) 與物體比例，避免合成感過重。
+    - **陰影繪製**：使用 Affinity 的筆刷或圖層樣式製作真實的接觸陰影 (Contact Shadow)。
+- **實作產出**：一張高質感的商品情境合成圖。
 
 ## 雙軌實戰任務 (Dual-Track Specs)
-#### **第 3 堂：商品情境 - 虛擬攝影棚合成**
+#### **第 3 堂：商品情境 - 虛擬攝影棚**
 
-- **學習主軸**：Microsoft Designer 生成背景 + Affinity 精細去背與光影。
-- **【主題 A：無線耳機/智能手錶】**
-    - **場景**：**懸浮實驗室 (Levitating Lab)** - 科技感展台、冷光。
+- **學習主軸**：AI 生成透視背景 + Affinity 商品合成。
+- **【主題 A：科技新品發表】**
+    - **風格**：**賽博龐克/霓虹 (Cyberpunk/Neon)** - 暗調、發光、反射。
+    - **主角**：最新款智慧型手機或電競耳機。
+    - **參考文案內容 (Reference Copy)**：
+        - **標題**：超越極限，定義未來
+        - **副標題**：X-Phone Pro 全新上市
+        - **內文**：搭載次世代 AI 晶片，極致效能，瞬間覺醒。體驗前所未有的速度與流暢。
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Product background. (產品背景)`
-        2. **Lv2 (中階)**：`Product photography background, white podium, blue light. (產品攝影背景，白色展台，藍光)`
-        3. **Lv3 (高階)**：`Product photography background, a futuristic white podium floating in the air, blue laser lights, clean studio lighting, high tech vibe. (產品攝影背景，懸浮在空中的未來感白色展台，藍色雷射光，乾淨的攝影棚燈光，高科技氛圍)`
+        1. **Lv1 (基礎)**：`Cyberpunk table background. (賽博龐克桌面背景)`
+        2. **Lv2 (中階)**：`Product photography background, neon lights, wet surface, cyberpunk style. (產品攝影背景，霓虹燈光，潮濕表面，賽博龐克風格)`
+        3. **Lv3 (高階)**：`Product display podium, futuristic city background with bokeh, neon blue and pink lighting, reflective floor, high tech vibe, 8k resolution, negative space on top for headline. (產品展示台，未來城市散景背景，霓虹藍粉燈光，反射地板，高科技氛圍，8k 高解析度，上方留白供標題使用)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
-- **【主題 B：精油/保養品】**
-    - **場景**：**自然岩石與水 (Nature & Water)** - 陽光、水波紋、石頭。
+- **【主題 B：手工皂/香氛蠟燭】**
+    - **風格**：**自然禪意 (Zen/Natural)** - 木質、陽光、植物。
+    - **主角**：手工皂或精油瓶。
+    - **參考文案內容 (Reference Copy)**：
+        - **標題**：回歸純粹，自然森活
+        - **副標題**：Pure Life 手工植萃系列
+        - **內文**：嚴選天然草本精華，溫和洗淨，不造成肌膚負擔。讓沐浴成為一場與大自然的對話。
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Stone background. (石頭背景)`
-        2. **Lv2 (中階)**：`Product photography background, stone platform, water. (產品攝影背景，石台，水)`
-        3. **Lv3 (高階)**：`Product photography background, a natural stone platform in shallow water, ripples, sunlight dappled, zen garden vibe, organic. (產品攝影背景，淺水中的天然石台，漣漪，陽光灑落（斑駁光影），枯山水庭園氛圍，有機感)`
+        1. **Lv1 (基礎)**：`Wooden table background. (木桌背景)`
+        2. **Lv2 (中階)**：`Product photography background, wooden table, sunlight, window shadow. (產品攝影背景，木桌，陽光，窗戶陰影)`
+        3. **Lv3 (高階)**：`Product display background, rustic wooden table, soft morning sunlight through curtains, green leaves shadow, spa atmosphere, natural lighting, copy space on the left. (產品展示背景，鄉村風木桌，透過窗簾的柔和晨光，綠葉陰影，SPA 氛圍，自然光，左側留白)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)
