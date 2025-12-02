@@ -23,7 +23,7 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`未來城市天際線，廣角，天空留白 (Futuristic city skyline, wide shot, copy space in sky)`
         2. **Lv2 (中階)**：`夜晚的未來城市天際線，霓虹燈，廣角，大字空間 (Futuristic city skyline at night, neon lights, wide angle, space for large text)`
-        3. **Lv3 (高階)**：`未來大都會全景，飛行車，全像圖，賽博龐克氛圍，高度細節，8k 高解析度，電影級燈光，廣角鏡頭，天空留白供大標題與活動日期使用 (Panoramic view of a futuristic metropolis, flying cars, holograms, cyberpunk atmosphere, highly detailed, 8k resolution, cinematic lighting, wide shot, negative space in the sky for large title and event dates)`
+        3. **Lv3 (高階)**：`[主體] 未來大都會全景，飛行車穿梭，巨型全像投影 + [環境] 賽博龐克夜景，電影級燈光氛圍 + [構圖] 超廣角鏡頭 (Wide shot)，地平線位於下方 1/3，上方 2/3 天空大面積留白供大標題與活動日期排版 + [風格] 科幻電影感，高度細節，震撼視覺 + [參數] 8k 解析度，銳利畫質 (Subject: Panoramic view of futuristic metropolis, flying cars, giant holograms, Environment: Cyberpunk night scene, cinematic lighting atmosphere, Layout: Ultra wide shot, horizon at bottom 1/3, top 2/3 sky large negative space for large title and event dates, Style: Sci-fi movie feel, high detail, stunning visual, Parameters: 8k resolution, sharp image)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：音樂節/市集打卡牆】**
@@ -37,6 +37,6 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`音樂節背景，日落，留白 (Music festival background, sunset, copy space)`
         2. **Lv2 (中階)**：`波西米亞風格背景，羽毛與捕夢網，日落，暖色調，拍照空間 (Bohemian style background, feathers and dreamcatchers, sunset, warm tones, space for photo)`
-        3. **Lv3 (高階)**：`戶外音樂節舞台背景，波西米亞裝飾，仙女燈，日落餘暉，遠處人群剪影，溫暖氛圍，廣角，中央留白供拍照背板與標籤使用 (Outdoor music festival stage background, bohemian decorations, fairy lights, sunset glow, crowd silhouettes in distance, warm atmosphere, wide angle, central copy space for photo backdrop and hashtags)`
+        3. **Lv3 (高階)**：`[主體] 戶外音樂節舞台與波西米亞風裝飾（羽毛、捕夢網） + [環境] 日落餘暉，仙女燈閃爍，遠處人群剪影 + [構圖] 對稱或中央構圖，中央預留大面積人像拍攝空間 (Photo backdrop)，四周裝飾 + [風格] 溫暖氛圍，夢幻，Coachella 風格 + [參數] 廣角，柔和光線 (Subject: Outdoor music festival stage and bohemian decorations (feathers, dreamcatchers), Environment: Sunset glow, fairy lights twinkling, crowd silhouettes in distance, Layout: Symmetrical or central composition, large central space reserved for portrait photo backdrop, decorations around edges, Style: Warm atmosphere, dreamy, Coachella style, Parameters: Wide angle, soft lighting)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

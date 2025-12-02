@@ -23,7 +23,7 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`抽象幾何形狀，極簡，留白 (Abstract geometric shapes, minimalist, copy space)`
         2. **Lv2 (中階)**：`抽象幾何海報背景，藍與橘，瑞士風格，標題空間 (Abstract geometric poster background, blue and orange, swiss style, clean space for title)`
-        3. **Lv3 (高階)**：`抽象科技幾何構圖，大膽排版風格，國際字體風格，鮮豔霓虹色彩，乾淨網格，極簡主義，留白供大標題與活動資訊使用 (Abstract techno geometric composition, bold typography layout style, international typographic style, vibrant neon colors, clean grid, minimalism, negative space for large title and event info)`
+        3. **Lv3 (高階)**：`[主體] 抽象幾何圖形（圓形、方形、線條） + [環境] 純色背景 + [構圖] 網格系統 (Grid system) 排版，圖形位於對角線，左上與右下留白供大標題與資訊使用 + [風格] 瑞士國際主義風格 (Swiss Style)，大膽排版，藍橘對比色 + [參數] 向量風格，極簡主義，乾淨俐落 (Subject: Abstract geometric shapes (circles, squares, lines), Environment: Solid color background, Layout: Grid system layout, shapes on diagonal, negative space in top-left and bottom-right for large title and info, Style: Swiss International Style, bold typography, blue and orange contrast, Parameters: Vector style, minimalism, clean and sharp)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：藝術展/花卉市集】**
@@ -37,6 +37,6 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`花卉圖案背景，柔和，留白 (Floral pattern background, soft, copy space)`
         2. **Lv2 (中階)**：`新藝術風格背景，花朵與藤蔓，優雅，中央空間 (Art Nouveau style background, flowers and vines, elegant, central space)`
-        3. **Lv3 (高階)**：`新藝術風格海報背景，精細花卉邊框，柔和金色與鼠尾草綠，慕夏風格，有機曲線，裝飾性，中央大面積留白供活動詳情 (Art Nouveau poster background, intricate floral borders, muted gold and sage green, Alphonse Mucha style, organic curves, decorative, large central copy space for event details)`
+        3. **Lv3 (高階)**：`[主體] 精細的有機曲線與花卉藤蔓 + [環境] 柔和的紙張紋理背景 + [構圖] 邊框式構圖 (Frame composition)，裝飾性邊框環繞，中央大面積橢圓形留白供活動詳情 + [風格] 新藝術風格 (Art Nouveau)，慕夏風格，柔和金色與鼠尾草綠 + [參數] 裝飾性強，優雅，插畫質感 (Subject: Intricate organic curves and floral vines, Environment: Soft paper texture background, Layout: Frame composition, decorative border surrounding, large central oval negative space for event details, Style: Art Nouveau, Alphonse Mucha style, muted gold and sage green, Parameters: Highly decorative, elegant, illustration texture)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

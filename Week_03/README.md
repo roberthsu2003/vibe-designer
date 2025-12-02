@@ -22,7 +22,7 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`賽博龐克桌面背景，留白 (Cyberpunk table background, copy space)`
         2. **Lv2 (中階)**：`產品攝影背景，霓虹燈光，潮濕表面，產品空間 (Product photography background, neon lights, wet surface, space for product)`
-        3. **Lv3 (高階)**：`產品展示台，未來城市散景背景，霓虹藍粉燈光，反射地板，高科技氛圍，8k 高解析度，上方留白供標題與文案使用 (Product display podium, futuristic city background with bokeh, neon blue and pink lighting, reflective floor, high tech vibe, 8k resolution, negative space on top for headline and copy)`
+        3. **Lv3 (高階)**：`[主體] 幾何形狀的產品展示台 + [環境] 未來城市夜景散景，霓虹藍粉燈光反射於潮濕地面 + [構圖] 居中構圖，展示台位於下方中央，上方大面積留白供標題與文案 + [風格] 高科技氛圍，時尚，冷冽 + [參數] 8k 解析度，光線追蹤渲染，景深效果 (Subject: Geometric product display podium, Environment: Futuristic city night bokeh, neon blue and pink lights reflecting on wet ground, Layout: Centered composition, podium at bottom center, large negative space above for headline and copy, Style: High-tech vibe, fashion, cool tones, Parameters: 8k resolution, ray tracing render, depth of field)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：手工皂/香氛蠟燭】**
@@ -35,6 +35,6 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`木桌背景，留白 (Wooden table background, copy space)`
         2. **Lv2 (中階)**：`產品攝影背景，木桌，陽光，窗戶陰影，乾淨區域 (Product photography background, wooden table, sunlight, window shadow, clean area)`
-        3. **Lv3 (高階)**：`產品展示背景，鄉村風木桌，透過窗簾的柔和晨光，綠葉陰影，SPA 氛圍，自然光，左側寬敞留白 (Product display background, rustic wooden table, soft morning sunlight through curtains, green leaves shadow, spa atmosphere, natural lighting, wide copy space on the left)`
+        3. **Lv3 (高階)**：`[主體] 質樸的木製桌面 + [環境] 柔和晨光透過窗簾灑落，映照出植物葉片的陰影 + [構圖] 俯視平拍 (Flat lay)，右側放置裝飾性植物，左側寬敞留白供產品與文字擺放 + [風格] 自然清新，SPA 氛圍，溫暖 + [參數] 自然光，柔焦，高質感攝影 (Subject: Rustic wooden tabletop, Environment: Soft morning sunlight through curtains casting plant leaf shadows, Layout: Flat lay, decorative plants on right, wide negative space on left for product and text, Style: Natural fresh, SPA atmosphere, warm, Parameters: Natural lighting, soft focus, high quality photography)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

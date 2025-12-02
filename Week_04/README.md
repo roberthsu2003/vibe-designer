@@ -25,7 +25,7 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`霓虹漢堡，暗色背景，留白 (Neon burger, dark background, copy space)`
         2. **Lv2 (中階)**：`賽博龐克風格漢堡，發光醬汁，暗色背景，菜單空間 (Cyberpunk style burger, glowing sauce, dark background, space for menu)`
-        3. **Lv3 (高階)**：`賽博龐克風格美味漢堡，全像裝飾，霓虹燈光，數位故障效果，電影級燈光，食物攝影，側邊暗色背景適合菜單文字 (Delicious burger in cyberpunk style, holographic garnish, neon lighting, digital glitch effect, cinematic lighting, food photography, dark background on side for menu text)`
+        3. **Lv3 (高階)**：`[主體] 美味漢堡搭配全像投影裝飾與發光醬汁 + [環境] 昏暗的賽博龐克餐廳，霓虹燈光照明 + [構圖] 側面視角，漢堡位於左側，右側暗色背景留白供菜單文字排版 + [風格] 電影級燈光，數位故障效果，誘人美食攝影 + [參數] 8k 解析度，微距攝影，高對比 (Subject: Delicious burger with holographic garnish and glowing sauce, Environment: Dim cyberpunk restaurant with neon lighting, Layout: Side view, burger on left, dark negative space on right for menu text, Style: Cinematic lighting, digital glitch effect, appetizing food photography, Parameters: 8k resolution, macro photography, high contrast)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：有機早午餐/慢食餐廳】**
@@ -41,6 +41,6 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`酪梨吐司，白底，留白 (Avocado toast, white background, copy space)`
         2. **Lv2 (中階)**：`白盤上的酪梨吐司，俯視，適合文字的乾淨背景 (Avocado toast on white plate, top view, clean background for text)`
-        3. **Lv3 (高階)**：`搭配水波蛋的頂級酪梨吐司，鄉村風木桌，亞麻餐巾，柔和自然光，美食雜誌風格，俯視，大量留白供菜單項目使用 (Gourmet avocado toast with poached egg, rustic wooden table, linen napkin, soft natural lighting, food magazine style, top down view, plenty of white space for menu items)`
+        3. **Lv3 (高階)**：`[主體] 頂級酪梨吐司搭配水波蛋 + [環境] 鄉村風木桌，亞麻餐巾，柔和自然光 + [構圖] 俯視平拍 (Flat lay)，餐盤位於下方，上方與兩側大量留白供菜單項目排列 + [風格] 美食雜誌風，清新，有機生活感 + [參數] 高畫質，柔和光影，色彩鮮豔 (Subject: Gourmet avocado toast with poached egg, Environment: Rustic wooden table, linen napkin, soft natural lighting, Layout: Flat lay, plate at bottom, large negative space above and sides for menu items, Style: Food magazine style, fresh, organic lifestyle vibe, Parameters: High quality, soft lighting, vibrant colors)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

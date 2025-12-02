@@ -23,7 +23,7 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`碳纖維紋理，深色，留白 (Carbon fiber texture, dark, copy space)`
         2. **Lv2 (中階)**：`無縫碳纖維紋理，黑與灰，金屬表面，乾淨表面 (Seamless carbon fiber texture, black and grey, metallic finish, clean surface)`
-        3. **Lv3 (高階)**：`未來六角形圖案紋理，無縫，發光霓虹邊緣，深色金屬背景，科技裝甲風格，8k 高解析度，乾淨區域供 Logo 放置與產品資訊 (Futuristic hexagon pattern texture, seamless, glowing neon edges, dark metallic background, tech armor style, 8k resolution, clean area for logo placement and product info)`
+        3. **Lv3 (高階)**：`[主體] 未來感六角形蜂巢圖案 + [環境] 深色金屬背景，邊緣帶有發光霓虹線條 + [構圖] 無縫紋理 (Seamless texture)，均勻分佈，中央設有乾淨區域供 Logo 放置與產品資訊排版 + [風格] 科技裝甲風格，運動感，陽剛 + [參數] 8k 高解析度，材質細節清晰 (Subject: Futuristic hexagonal honeycomb pattern, Environment: Dark metallic background, glowing neon lines on edges, Layout: Seamless texture, evenly distributed, clean area in center for Logo placement and product info, Style: Tech armor style, sporty, masculine, Parameters: 8k resolution, clear material details)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：茶葉禮盒/手工果醬】**
@@ -37,6 +37,6 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`日本紙紋理，淺色，留白 (Japanese paper texture, light color, copy space)`
         2. **Lv2 (中階)**：`無縫日本傳統圖案，櫻花，粉紅與白，柔和紋理 (Seamless japanese traditional pattern, cherry blossoms, pink and white, soft texture)`
-        3. **Lv3 (高階)**：`優雅花卉包裝紙圖案，無縫，復古植物插畫，柔和粉彩，水彩風格，高品質印刷，輕微紋理適合包裝，乾淨空間供標籤使用 (Elegant floral wrapping paper pattern, seamless, vintage botanical illustration, soft pastel colors, watercolor style, high quality print, light texture for packaging, clean space for label)`
+        3. **Lv3 (高階)**：`[主體] 復古植物插畫與花卉圖案 + [環境] 柔和粉彩色的紙張質感 + [構圖] 無縫連續圖案 (Seamless pattern)，花卉疏密有致，預留乾淨空間供產品標籤 (Label) 貼合 + [風格] 優雅水彩風，高品質印刷質感，日式清新 + [參數] 輕微紋理，適合包裝設計 (Subject: Vintage botanical illustration and floral patterns, Environment: Soft pastel paper texture, Layout: Seamless pattern, balanced density of flowers, reserved clean space for product label, Style: Elegant watercolor, high quality print texture, Japanese fresh style, Parameters: Light texture, suitable for packaging design)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)

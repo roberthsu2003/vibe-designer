@@ -22,7 +22,7 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`賽博龐克海報背景，留白 (Cyberpunk poster background, copy space)`
         2. **Lv2 (中階)**：`海報設計背景，霓虹色彩，暗色背景適合文字 (Poster design background, neon colors, dark background for text)`
-        3. **Lv3 (高階)**：`海報設計背景，霓虹綠與紫，賽博龐克城市氛圍，高對比度，故障效果，底部留白供活動詳情 (Poster design background, neon green and purple, cyberpunk city vibe, high contrast, glitch effect, negative space at the bottom for event details)`
+        3. **Lv3 (高階)**：`[主體] 未來城市建築輪廓 + [環境] 霓虹燈光閃爍的夜景 + [構圖] 垂直構圖，底部 1/3 為城市景觀，上方 2/3 為深色留白供標題使用 + [風格] 賽博龐克，故障藝術效果，高對比度 + [參數] 電影級光影，8k 解析度 (Subject: Futuristic city skyline silhouettes, Environment: Night scene with flickering neon lights, Layout: Vertical composition, bottom 1/3 city landscape, top 2/3 dark negative space for title, Style: Cyberpunk, glitch art effect, high contrast, Parameters: Cinematic lighting, 8k resolution)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：小農市集/季節水果祭】**
@@ -35,6 +35,6 @@
     - **Prompt 進階三部曲 (由淺入深)**：
         1. **Lv1 (基礎)**：`市集海報背景，留白 (Market poster background, copy space)`
         2. **Lv2 (中階)**：`海報設計背景，水果，紙張紋理，標題空間 (Poster design background, fruits, paper texture, space for title)`
-        3. **Lv3 (高階)**：`海報設計背景，新鮮水果邊框，紙張紋理，可愛貼紙風格，中央乾淨版面供活動資訊 (Poster design background, fresh fruits border, paper texture, cute stickers style, clean layout in center for event info)`
+        3. **Lv3 (高階)**：`[主體] 新鮮水果（檸檬、草莓）與手作果醬 + [環境] 粗糙的牛皮紙紋理背景 + [構圖] 散落在四周的裝飾性構圖，中央圓形區域留白供活動資訊 + [風格] 手繪插畫風，可愛貼紙質感，溫暖色調 + [參數] 高細節，平面設計風格 (Subject: Fresh fruits (lemons, strawberries) and handmade jam, Environment: Rough kraft paper texture background, Layout: Decorative composition scattered around edges, central circular negative space for event info, Style: Hand-drawn illustration, cute sticker texture, warm tones, Parameters: High detail, flat design style)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)
