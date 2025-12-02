@@ -24,9 +24,9 @@
             3. **Scalable**: Grow with your business.
         - **聯絡資訊**：www.example.com | 0800-123-456
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Server room background. (機房背景)`
-        2. **Lv2 (中階)**：`Abstract technology background, data flow, blue tones, for brochure. (抽象科技背景，數據流，藍色調，用於小冊子)`
-        3. **Lv3 (高階)**：`Corporate brochure background, abstract network connections, clean white and blue theme, plenty of copy space, professional tech vibe, high resolution, soft focus. (企業小冊子背景，抽象網絡連接，乾淨藍白主題，大量留白，專業科技氛圍，高解析度，柔焦)`
+        1. **Lv1 (基礎)**：`Server room background, copy space. (機房背景，留白)`
+        2. **Lv2 (中階)**：`Abstract technology background, data flow, blue tones, for brochure, clean layout. (抽象科技背景，數據流，藍色調，用於小冊子，乾淨版面)`
+        3. **Lv3 (高階)**：`Corporate brochure background, abstract network connections, clean white and blue theme, plenty of copy space for text paragraphs, professional tech vibe, high resolution, soft focus. (企業小冊子背景，抽象網絡連接，乾淨藍白主題，大量留白供文字段落使用，專業科技氛圍，高解析度，柔焦)`
     - **範例作品**：
       ![Theme A Example](assets/theme_a.png)
 - **【主題 B：產地故事/旅遊導覽】**
@@ -38,8 +38,8 @@
         - **內文段落**：探索京都的巷弄，發現不為人知的美好。從古老的寺廟到現代的咖啡館，感受這座城市的獨特魅力。
         - **引言**："Travel is the only thing you buy that makes you richer."
     - **Prompt 進階三部曲 (由淺入深)**：
-        1. **Lv1 (基礎)**：`Tea plantation landscape. (茶園風景)`
-        2. **Lv2 (中階)**：`Beautiful tea plantation landscape, morning mist, soft light. (美麗茶園風景，晨霧，柔和光線)`
-        3. **Lv3 (高階)**：`Cinematic shot of a tea plantation in mountains, morning sunlight, atmospheric mist, travel magazine style, wide angle, high resolution, blurred background for text. (山中茶園電影級鏡頭，晨光，大氣霧感，旅遊雜誌風格，廣角，高解析度，背景模糊適合壓字)`
+        1. **Lv1 (基礎)**：`Tea plantation landscape, copy space. (茶園風景，留白)`
+        2. **Lv2 (中階)**：`Beautiful tea plantation landscape, morning mist, soft light, space for text. (美麗茶園風景，晨霧，柔和光線，文字空間)`
+        3. **Lv3 (高階)**：`Cinematic shot of a tea plantation in mountains, morning sunlight, atmospheric mist, travel magazine style, wide angle, high resolution, blurred background for text overlay. (山中茶園電影級鏡頭，晨光，大氣霧感，旅遊雜誌風格，廣角，高解析度，背景模糊適合文字疊加)`
     - **範例作品**：
       ![Theme B Example](assets/theme_b.png)
